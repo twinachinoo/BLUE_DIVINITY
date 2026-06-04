@@ -23,3 +23,6 @@ As a wizard, you gain the following class features:
 **primary armor**: light <br>
 **secondary armor**: none <br>
 **magical foci**: grimoire. In addition, choose one other option from the list of arcane foci.
+
+#### Magical power source
+**arcana**, structured
