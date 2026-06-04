@@ -12,15 +12,15 @@
       "uiElements": "core",
       "soundscape": "core",
       "clickEffects": "core",
-      "textureOpacity": 0.25
+      "textureOpacity": 0.3
     },
     "headingFont": "\"Cinzel\", serif",
     "bodyFont": "\"Spectral\", serif",
     "fontSize": 100,
     "sidebarWidth": 300,
-    "isTocVisible": true,
+    "isTocVisible": false,
     "areInfoboxTagsVisible": true,
-    "areFooterTagsVisible": false,
+    "areFooterTagsVisible": true,
     "areLinkPreviewsEnabled": true,
     "areMapPreviewsEnabled": true
   }
