@@ -9,3 +9,17 @@ All wizards share one unified type of aspects - spells. Spellcasting defines a w
 
 ### the Blue Mage
 The term wizard is a modern invention. In the ancient era of blue divinity, wizards were Blue Mages, capable of manipulating the blue-tinged colour of mana that seeped from ley lines. Even to this day, Wizards rely on this mysterious substance for sustained spellcasting or to brave intricate, high-tier spells; However, their own internal soul is more than enough to sustain most of their magical needs.
+
+### schools of wizardry
+Wizards often pursue specific branches of magical thought and expertise as they further their learning. the specific schools vary from different arcane academia across the world. For your PC, these are the subclass options your wizard character can choose from upon hitting milestone 1.
+
+# class features
+As a wizard, you gain the following class features:
+####  Trait score increase (if below 16)
+**Lore + 2**, <br>
+**arcana + 1**
+
+#### class proficiencies
+**primary armor**: light <br>
+**secondary armor**: none <br>
+**magical foci**: grimoire. In addition, choose one other option from the list of arcane foci.
