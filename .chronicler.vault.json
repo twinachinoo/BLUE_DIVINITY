@@ -17,7 +17,7 @@
     "headingFont": "\"Cinzel\", serif",
     "bodyFont": "\"Spectral\", serif",
     "fontSize": 100,
-    "sidebarWidth": 300,
+    "sidebarWidth": 299,
     "isTocVisible": false,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": true,
