@@ -22,6 +22,8 @@
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": true,
     "areLinkPreviewsEnabled": true,
-    "areMapPreviewsEnabled": true
+    "areMapPreviewsEnabled": true,
+    "showImages": true,
+    "showExternalFiles": false
   }
 }
