@@ -27,20 +27,30 @@ As a wizard, you gain the following class features:
 #### Magical power source
 **arcana**, structured
 
-##### Preparable aspects
-| aspect tier | Spells | spell modifications | Signiature spells
+## class block (WIP)
+| Character level | Experience | Milestone features | cantrips | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 | T11 |
+|:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 0  | +2  | Spellcasting, arcane recovery | 4 | 4 | 2 |  |  |  |  |  |  |  |  |
+| 1  | +2  | scribe spell, Signiature spell (T1-2), Simple modify spell | 4 | 4 | 3 | 3 |  |  |  |  |  |  |  |
+| 2  | +2  | Subclass | 4 | 5 | 4 | 4 |  |  |  |  |  |  |  |
+| 3  | +2  | - | 4 | 5 | 4 | 4 | 3 |  |  |  |  |  |  |
+| 4  | +3  | Signiature spell (T3), Modify spell | 4 | 6 | 5 | 5 | 4 |  |  |  |  |  |  |
+| 5  | +3  |- | 5 | 6 | 5 | 5 | 4 | 3 |  |  |  |  |  |
+| 6  | +3  |- | 5 | 7 | 6 | 6 | 5 | 4 |  |  |  |  |  |
+| 7  | +3  |- | 5 | 7 | 6 | 6 | 5 | 4 | 2 |  |  |  |  |
+| 8  | +4  | Contingency spell | 5 | 8 | 7 | 7 |6 | 5 | 3 |  |  |  |  |
+| 9  | +4  |- | 5 | 8 | 7 | 7 |6 | 5 | 4 | 2 |  |  |  |
+| 10  | +4  |- | 6 | 8 | 7 | 7 |6 | 5 | 4 | 2 |  |  |  |
+
+#### class skills
+| aspect tier |  spell modifications | Signiature spells | contingencies | 
 |:------------------|:-----:|:-----:|:-----:|
-|1            |  11       | 2       | 3 |
-| 2           |  10      |  2      | 2
-|  3          |   9     |   2     | 2
-|  4          |    8     |   1     | 1
-|5            |    7     |   1     |  1 
-| 6           |    6     |   1     | 1
-|  7          |    5    |    -    | - 
-|  8          |      4   |    -    | -
-|  9          |      3   |    -    | -
-|  10          |      2   |    -    | -
-|  11          |      1   |    -    | -
+|1            |  2       | 3 | 2
+| 2           |   2      | 3 | 2
+|  3          |   2     | 2 | 1
+|  4          |    1     | 2 | 1
+|5            |     1     |  1  | -
+| 6           |    1     | 1 | - 
 
 ### spellcasting
 The Wizard has the standard spellcasting model. [[Wizard spell list]]
