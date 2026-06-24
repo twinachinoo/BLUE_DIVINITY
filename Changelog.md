@@ -209,3 +209,92 @@ These are, frankly, just stronger options and need significant testing to ensure
 - **mystic**: renamed the psionic user the **psion**, to bring the elusive, obscure term "mystic" into the Noctira bracket. not final. It's the companion class to the warlock, acting as a class to host multiple unique roguish archetypes, along with a general focus on the serenity, and stillness of darkness, drawing heavily from nocturnal and lunar theming.
 - **lucent** replaces **oracle** to prevent linguistic overlap between mystic and oracle. the lucent suggests something softly glowing and translucent, acting as the backline "white mage" whilst reviving themes of solar radiance, paladin auras, and etherealness into a luminata class, allowing the theurge to lean closer towards a battlemage role with divine protection and martial weapons (IF they wish).
 
+# update 25/06 - Mystic class updates. v1.1.9.1
+updated simultaneously with the sorcerer. The sorcerer update v1.1.8 will continue to recieve updates as this progresses too into v1.1.9.x
+
+#### design philosophy: like sophist is to bard and theurge is to cleric, expand the "rogue" - a term with significant baggage, into its own soverign class.
+
+## the mystic class
+mystics have a strong theme relating to the stillness and serenity of darkness, especially with cosmic themes of night, moon, and the darkness of space that can push and pull.<br> If a warlock uses dark power - like a sophist charms with the arcane, the Mystic is to the warlock what the sophist is to the wizard. A philosopher, practioner, purveyor of dark, of any type, and what roams within that dark. 
+<br><br>
+1. They serve as an excellent expansion on to roguish soulknife and assassin archetypes, capable of precise, critical damage by bypassing armor or striking through shadows. They are immaculate single target DPSes.
+2. They are powerful scouts, offering the ability to manipulate darkness into cover, or slip right past said cover through the shadows, or fashion deadly blades from nothingness. They offer a mix of infiltration tools that makes them uniquely valuable thieves and scouts, yet expanding their mix out into offering some defense and support.
+3. they fool the senses and the soul itself. Specialising in AATK damage, Mystics are lethal against traditional defenses, capable of powerful aspects like *darkshock, negative knife,* or *Nanoblack*. This lets them cut through metal, flesh, or a magical shield alike, making them both excellent combatants but also a simple solution to an exploration puzzle.
+
+### the resource system
+The Mystic should have two resources - waxing and waning like the moon. One that increases *as* they spread darkness, or are within it, serving as a "situational boon", and a standard mana pool that regenerates a little slower than the warlock.
+
+1. Noir. a variant on dark mana (warlock). Their noir value also is a direct boon to their general crit rate and stealthiness - meaning a mystic is most dangerous when they haven't acted. 
+2. Veil. The specific type of veil - **twilight, Lunar, Phantom, Gloom**, etc, depends on your subclass. this offers you a boon depending on how generally dark it is around you, or just how generally stealthy you are, such as being hidden, being out of LOS, affected by invisiblity or cover, etc.
+
+### Cunning action
+When veiled or at a specific noir threshold, You can take cunning actions, slashing the AP cost of specific actions by 1 and reducing them to normal actions with no specific tag (e.g, take both dash and disengage). 
+
+You gain one for free to start off with - read philosophy of dark below. you gain more options via milestones and can upgrade them as independant class talents.
+
+### Shadow knife
+You can perform one attack action this as an AATK attack - attempt to pierce defenses with a raised critical chance to deal massive damage. <br><br>
+This value skyrockets as you level, offering more and more options to enable it to deal said ceiling of damage. Importantly, if you've got a magic action, you can wrap it into this if you have the AP to spare.
+
+### hide in plain sight (part of veil)
+As the name suggests. slowly manually increase your veil to blend in with the shadows, giving you the invisible condition at the cost of constantly eating your AP with the stealth skill action. 
+<br><bR>
+When hidden in plain sight, certain aspects no longer require somatic components.
+
+### philosophy of dark
+expertise - kind of? Their most interesting, customiseable component. These are class skills, but have a unique slot dedicated to them.
+
+### nanoblack (M1)
+Enter a temporary nanoblack state, where you automatically gain the ability to use NOTN on every turn and can disperse and reappear within darkness like an enhanced shadow step.
+
+### motionless (M2)
+All aspects of a certain tier or below now no longer require somatic components. <br><br>
+in additon, If you somehow gain the same condition (invisible, hidden, silenced, etc) from multiple sources, it simply adds to your veil.
+
+### evasion (M3)
+A general slipperiness to PATK and MATK, allowing you the iconic half damage from success or no damage from save, provided your veil is strong enough to cover you from said damage.
+
+### elusive (M4)
+Instantly activate a cunning action when in a sticky situation - which are specific contingencies a bit like the wizard's ones. If you're: *prone, restrained, paralyzed, stunned*, etc...
+
+## Philosophy of dark
+The mystic can take a unique set of *expertise* class options, which are extremely powerful class aspects. They can only have 1-3 expertises active at any one time, the tier of which are determined by their *expertise slots*:
+
+#### Move through dark (M1)
+- gain the otherwise T2 Shadow step aspect, can use it a number of times equal to your finesse. an incredible bit of additional manouvreability.
+
+#### cunning actions (M1-5)
+each cunning action after your first require an expertise slot.
+
+## WIP class block
+| Character level | Experience |Milestone features | Dark shards | Aspect tier limit | Philo slot 1 | Philo slot 2 | Philo slot 3| 
+|:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 0  | +0 | Noir, Veil, Philosophy of dark,  |- | - | 1 | 1 | - |
+| 1  | +0  | Dark fragments, Shadow knife | 2  | 1 | 1 | 1 | 1 |
+| 2  | +1  | Cunning action, subclass  | 3 | 1 |2  |1  |1  |  |
+| 3  | +1  | -| 3 | 2 |2  |2  |1  |  |
+| 4  | +2  |  nanoblack | 4 | 3 |2  |2  |2  |  |
+| 5  | +2  |  -| 4 | 3 |3  |2  |2  |  |
+| 6  | +2  | skulker, evasion | 4 | 4 |3  |3  |2  |  |
+| 7  | +2  | - | 4 | 4 |3  |3  |3  |  |
+| 8  | +3 | nanoblack (x2), motionless| 5 | 5 |4  |3  |3  |  |
+| 9  | +3 | - | 5 | 5 |4  |4  |3  |  |
+| 10  | +3  | Antimagic, Elusive | 5 | 6 |4  |4  |4  |  |
+| 11  | +3 |- | 5 | 6 |5 |5  |4  |4  |
+| 12  | +4 | nanoblack (x3), bend gravity |  6 | 7 |5 |5  |4  | 
+| 13  | +4 | -| 6 | 7 |5 |5  |5  | 5 |
+| 14  | +4 | Antimagic (x2)  | 6 | 8 |6 |5  |5  | 4 |
+| 15  | +4| Miracle of dark |6 | 8 |6 |6  |5 |
+| 16  | +5| lightless | 7 | 9 |6 |6  |6  |
+
+philo = philosophy of dark slots
+dark shards = warlock spell slots kind of
+
+## update v1.1.9.2 (6:00am)
+mainly focused on tidying up the Mystic and fleshing out their class features.
+- shadow blade, piercing dark, pierce action. cleanly articulated.
+- started work on nanoblack, still feels a little weak for such a poignant feature
+- shuffled other abilities around to appropiate level breakpoints. Veil removed and integrated directly into the subclasses.
+- further lore need for the mystic to move them away from purely roguish themes.
+- need to write out philosophies of dark section.
+- noir removed entirely - feature bloat. Piercing dark is already an interesting base mechanic.
