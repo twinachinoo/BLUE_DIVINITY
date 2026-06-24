@@ -173,3 +173,39 @@ signiature spell compressed into one feature. Now accessed through class talents
 
 ## the experience mechanic
 "experience" is defined through the measurement of an adventurer's well, experience. it serves as a universal modifier for d20 tests or part of pools of resources, acting as the general skill level of the character. This will see continous, further refinement for where it plays a part.
+
+# 24/06 - v1.1.8.1 Sorcerous origins introduces
+a two part update spanning today and tommorrow focusing on the sorcerer origin choice, whilst making plans for background and species features and specific feats.
+
+#### core design philosophy: A sorcerer isn't necessarily a class.
+to train one's own internal power is an admirable feat, but there's already a class for that - monk, and not all sorcerous power is magical, so it's difficult to argue for a dedicated sorcerer class, as of right now. <br><br>Something like it though is definitely planned.
+
+## sorcerous origins
+Taking a sorcererous origin is a huge investment. It sacrificies three core character pieces:
+- species feat: replaces the unique feat offered through your species
+- background: all sorcerers can have a narrative background, but their mechanical background is **sorcerous lineage** - which dictates terms from here on out.
+- Your subclass: for most classes, their subclass is at level 2 or earlier. That doesn't matter, since all sorcerers get their first feature at level 0, and simply offers an additional boon at that level replacing the subclass features. It then entirely replaces subclass progression with a sorcerous soul progression
+- Milestones. Currently unsure how to configure this - as milestones are pretty important pieces of a character's progression. Currently, the game is built around 5-6 major milestones: One at each even level 2,4,8,10,12,15. Taking a milestone away from a class is a pretty big deal, so I'm not too sure how to feel about this.
+
+### different origins and their thematic flavours
+- "soul" lineages: A direct piece of your ancestry, where your power - usually magic, comes from an internal wellspring as a gift from your ancestors or creators: **Divine soul, draconic soul, eldritch soul, primal soul**.
+- "born" suggests a more esoteric, direct origin from the stars - **starborn**, or the weave itself - **weaveborn**, creating characters with thrilling, cosmic questions as part of their backstory.
+- "walker" - characters that continued to live (walk) despite their circumstance - some coming back from the dead: **gravewalker**, some exploring the world as a dream / spirit: **dreamwalker**. This offers a drastically different physiology that transforms your physical presence.
+- "mind" - a direct alteration to your psyche, biological or psychological. either a mind capable of posthuman perception: **psychic mind**, or one goverend by the order of technology: **mechanical mind**
+
+### optional additional options.
+These are, frankly, just stronger options and need significant testing to ensure balance and proper cohesion. These may also be turned into direct classes from now on out.
+
+ - **moonsilver**: the material name. Moonsilver sorcerers have a rotating aspect list that allows them to manipulate gravity. 
+- **rosegold**: another material. Rosegold sorcerers can use hemomancy and transmutate flesh.
+
+## class changes
+### new classes & replacements
+- **rogue** finally retired. The word carried too much baggage to make it into a new system without some inevitable expectations of a martial type character.
+- **warlock** allowed to fully explore the estoeric side of dark magic, leaning into necromancy and witchcraft as valid pathways.
+- **mystic** and **oracle** replaced or shuffled as below:
+
+### new classes
+- **mystic**: renamed the psionic user the **psion**, to bring the elusive, obscure term "mystic" into the Noctira bracket. not final. It's the companion class to the warlock, acting as a class to host multiple unique roguish archetypes, along with a general focus on the serenity, and stillness of darkness, drawing heavily from nocturnal and lunar theming.
+- **lucent** replaces **oracle** to prevent linguistic overlap between mystic and oracle. the lucent suggests something softly glowing and translucent, acting as the backline "white mage" whilst reviving themes of solar radiance, paladin auras, and etherealness into a luminata class, allowing the theurge to lean closer towards a battlemage role with divine protection and martial weapons (IF they wish).
+
