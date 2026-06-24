@@ -113,16 +113,39 @@ Arcana: increases the energy pool of any class, and gives a generic damage bonus
 
 | Character level | Experience | Milestone features | cantrips | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 | T11 |
 |:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 0  | +2  | Spellcasting, arcane recovery | 4 | 4 | 2 |  |  |  |  |  |  |  |  |
-| 1  | +2  | scribe spell, Signiature spell (T1-2), Simpel modify spell | 4 | 4 | 3 | 3 |  |  |  |  |  |  |  |
-| 2  | +2  | Subclass | 4 | 5 | 4 | 4 |  |  |  |  |  |  |  |
-| 3  | +2  | - | 4 | 5 | 4 | 4 | 3 |  |  |  |  |  |  |
-| 4  | +3  | Signiature spell (T3), Modify spell | 4 | 6 | 5 | 5 | 4 |  |  |  |  |  |  |
-| 5  | +3  |- | 4 | 6 | 5 | 5 | 4 | 3 |  |  |  |  |  |
-| 6  | +3  |- | 4 | 7 | 6 | 6 | 5 | 4 |  |  |  |  |  |
-| 7  | +3  |- | 4 | 7 | 6 | 6 | 5 | 4 | 2 |  |  |  |  |
-| 8  | +4  | Contingency spell | 4 | 8 | 7 | 7 |6 | 5 | 3 |  |  |  |  |
-| 9  | +4  |- | 4 | 8 | 7 | 7 |6 | 5 | 4 | 2 |  |  |  |
-| 10  | +4  |- | 4 | 8 | 7 | 7 |6 | 5 | 4 | 2 |  |  |  |
-| 11  | +4  |- | 4 | 8 | 7 | 7 |6 | 5 | 4 | 2 |  |  |  |
-| 12  | +4  |- | 4 | 8 | 7 | 7 |6 | 5 | 4 | 2 |  |  |  |
+| 0  | +1 | Spellcasting, scribe spell | 3 | 4 | 2 |  |  |  |  |  |  |  |  |
+| 1  | +2  | arcane recovery, signiature spell, Simple modify spell | 4 | 4 | 3 | 2 |  |  |  |  |  |  |  |
+| 2  | +2  | superior spellcasting, Subclass choice | 4 | 5 | 3 | 3 |  |  |  |  |  |  |  |
+| 3  | +2  | - | 4 | 5 | 4 | 3 | 2 |  |  |  |  |  |  |
+| 4  | +3  | Modify spell | 4 | 6 | 5 | 4 | 3 |  |  |  |  |  |  |
+| 5  | +3  |- | 4 | 6 | 5 | 4 | 3 | 2 |  |  |  
+| 6  | +3  | Contingency spell | 5 | 6 | 5 |  5| 5 | 3 |  |  |  |  |  |
+| 7  | +3  |- | 5 | 6 | 6 | 5 | 5 | 3 | 2 |  |  |  |  |
+| 8  | +4  | - | 5 | 6 | 6 | 6 |5 | 4 | 3 |  |  |  |  |
+| 9  | +4  |- | 5 | 6 | 6 | 6 |5 | 4 | 3 | 2 |  |  |  |
+| 10  | +4  | Fabricate spell |  5 | 6 | 6 | 6 | 5 |5  |4  |  3 | |
+| 11  | +4  |- | 5 |  6|  6| 6 |5  |5  | 4 |  3| 1 |
+| 12  | +5  |  - | 6 |  6  |6  | 6 | 5 | 5 | 4 |  4| 2 |
+| 13  | +5  |  -| 6| 6 |6  | 6 | 5 |  5|  4|  4|  3| 1  | |  | 
+| 14  | +5  | Glimpse into the arcanum |  6| 6 |  6|6  |5  |5  |4  |  4| 3 |  2|  |
+| 15  | +5  |  -|6|  6 |6 | 6|  5 |5  | 4 |  4| 3 | 3| 1 |
+| 16+  | +6  | Height of magic |6| 6|  6|  6|5  |5  |4  | 4 | 3 | 3 | 2 | 1 |
+
+# 23/06 - v1.1.7
+#### core design philosophy: optimised, balanced framework, but narrative control for the DM.
+
+## first alpha wizard table. More class features, scaling cantrips, and increased experience thresholds.
+- made significant changes to the progression of the class. instead of a level 1 "everything dump", they now stagger it throughout for a smoother, more player friendly progression. 
+- Milestones are STILL DM agnostic. If the DM wants to run campaigns where milestones are detached from levelling, or tweak power dynamics to a specific subset, they can do that.
+- a class should function fine withotu their abilities post levels 1-2. The DM can artifically inject "level us" where they don't gain a level but a milestone instead.
+### class design: the tradeoff
+- the core tradeoff is to optimise for modularity, balance, and a streamlined experience, it required sacrificing a degree of class variety. Now, every class gets x power increase at y level. This is **amazing** for a functional, balanced game, and of course, for the DM.
+- the counterpoint is streamlining reduces character variety to a degree. it's for a crowd that values a functional, balanced game, rather than one where character flavour comes first. it intends to cater towards modern, efficient play.
+
+## the thematic lever: milestones
+- to still ensure that DMs who enjoy long stretching, narrative focused campaigns, they can still fully enable the milestones as "pauses" - serving as session rewards without granting a full level. These milestones are brief enough that they can be compressed into an adjacent level if needed, but impactful enough to be worth their own dedicated session.
+- the milestones are placed in moments where players may need to "breathe" through progression. They offer chances for characters to get used to their Kit, and simultaneously serve as major, all-class rewards for overcoming a massive narrative moment. 
+It also allows "experience points" to go towards a different goal rather than  levelling up, which a DM may feel players  are not yet ready for.
+
+## the experience mechanic
+"experience" is defined through the measurement of an adventurer's well, experience. it serves as a universal modifier for d20 tests or part of pools of resources, acting as the general skill level of the character. This will see continous, further refinement for where it plays a part.
