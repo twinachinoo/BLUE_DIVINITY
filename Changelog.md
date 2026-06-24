@@ -1,5 +1,7 @@
 ### Changelog - Not fully updated, requiring previous commit notes
 
+
+
 # 23/06 - v1.1.6
 
 #### Design philosphy: start classes on equal footing from lv1, to start in the "goldilocks zone" of play ASAP.
@@ -138,14 +140,36 @@ Arcana: increases the energy pool of any class, and gives a generic damage bonus
 - made significant changes to the progression of the class. instead of a level 1 "everything dump", they now stagger it throughout for a smoother, more player friendly progression. 
 - Milestones are STILL DM agnostic. If the DM wants to run campaigns where milestones are detached from levelling, or tweak power dynamics to a specific subset, they can do that.
 - a class should function fine withotu their abilities post levels 1-2. The DM can artifically inject "level us" where they don't gain a level but a milestone instead.
-### class design: the tradeoff
+### class design: the tradeoff (v1.1.7.2)
 - the core tradeoff is to optimise for modularity, balance, and a streamlined experience, it required sacrificing a degree of class variety. Now, every class gets x power increase at y level. This is **amazing** for a functional, balanced game, and of course, for the DM.
 - the counterpoint is streamlining reduces character variety to a degree. it's for a crowd that values a functional, balanced game, rather than one where character flavour comes first. it intends to cater towards modern, efficient play.
 
-## the thematic lever: milestones
+## the thematic lever: milestones (v1.1.7.2)
 - to still ensure that DMs who enjoy long stretching, narrative focused campaigns, they can still fully enable the milestones as "pauses" - serving as session rewards without granting a full level. These milestones are brief enough that they can be compressed into an adjacent level if needed, but impactful enough to be worth their own dedicated session.
 - the milestones are placed in moments where players may need to "breathe" through progression. They offer chances for characters to get used to their Kit, and simultaneously serve as major, all-class rewards for overcoming a massive narrative moment. 
 It also allows "experience points" to go towards a different goal rather than  levelling up, which a DM may feel players  are not yet ready for.
+
+## the wizard class (v1.1.7.2)
+a brief synopsis - a lot of details to come @ next update!!
+
+### new class features
+- glimpse into the arcanum
+- height of magic
+- minor modify spell
+- arcane recovery
+- scribe spell & foci merged
+- Superior spellcasting
+
+### changed class features
+signiature spell compressed into one feature. Now accessed through class talents.
+
+#### class progression
+- class block cleaned up through the 15 levels. multiple adjustments from the block above.
+- class features spread out through 0-2, meaning a fully playable wizard at lv1, but a rounded on at lv2.
+
+#### new class talent options
+- more options for superior spellcasting and signiature spell
+
 
 ## the experience mechanic
 "experience" is defined through the measurement of an adventurer's well, experience. it serves as a universal modifier for d20 tests or part of pools of resources, acting as the general skill level of the character. This will see continous, further refinement for where it plays a part.
