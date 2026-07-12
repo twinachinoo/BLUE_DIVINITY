@@ -269,13 +269,13 @@ each cunning action after your first require an expertise slot.
 ## WIP class block
 | Character level | Experience |Milestone features | Dark shards | Aspect tier limit | Philo slot 1 | Philo slot 2 | Philo slot 3| 
 |:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 0  | +0 | Noir, Veil, Philosophy of dark,  |- | - | 1 | 1 | - |
+| 0  | +0 | Noir, Veil, Philosophy of dark, |- | - | 1 | 1 | - |
 | 1  | +0  | Dark fragments, Shadow knife | 2  | 1 | 1 | 1 | 1 |
 | 2  | +1  | Cunning action, subclass  | 3 | 1 |2  |1  |1  |  |
 | 3  | +1  | -| 3 | 2 |2  |2  |1  |  |
 | 4  | +2  |  nanoblack | 4 | 3 |2  |2  |2  |  |
 | 5  | +2  |  -| 4 | 3 |3  |2  |2  |  |
-| 6  | +2  | skulker, evasion | 4 | 4 |3  |3  |2  |  |
+| 6  | +2  | Eclipse mind, evasion | 4 | 4 |3  |3  |2  |  |
 | 7  | +2  | - | 4 | 4 |3  |3  |3  |  |
 | 8  | +3 | nanoblack (x2), motionless| 5 | 5 |4  |3  |3  |  |
 | 9  | +3 | - | 5 | 5 |4  |4  |3  |  |
@@ -290,7 +290,7 @@ each cunning action after your first require an expertise slot.
 philo = philosophy of dark slots
 dark shards = warlock spell slots kind of
 
-## update v1.1.9.2 (6:00am)
+## update v1.1.9.2 
 mainly focused on tidying up the Mystic and fleshing out their class features.
 - shadow blade, piercing dark, pierce action. cleanly articulated.
 - started work on nanoblack, still feels a little weak for such a poignant feature
@@ -298,3 +298,142 @@ mainly focused on tidying up the Mystic and fleshing out their class features.
 - further lore need for the mystic to move them away from purely roguish themes.
 - need to write out philosophies of dark section.
 - noir removed entirely - feature bloat. Piercing dark is already an interesting base mechanic.
+
+#### nanoblack
+the original "climb up walls as a shadow" effect is now a philosophy of dark. it no longer requires a dedicated milestone.
+
+the new nanoblack functions as an enhanced veiled state, where your Noir is always maximum
+
+### core design philosophy change
+Class features small enough to not be a feature, but too big to be a talent, are now relegated to their philosophies. This includes piercing dark, shadow knife (which is free first one you get), and the pierce action effect. 
+
+#### noir
+Noir is brought back as a pseudo mana resource. Noir is dependant on your environment, which means the darker you are and the more time you spend within it, the more Noir you gain back. You expend it to enter "extended stealth" where you're guaranteed the stealth condition at the cost of continuous Noir expenditure. 
+
+#### shadow meld
+This is your first philosophy reccomended. it lets you consome Noir to travel through shadow - up walls, over water, etc.
+
+
+
+### mystic v2
+| Character level | Experience |Milestone features | Dark shards | tier limit | Philo slot 1 | Philo slot 2 | Philo slot 3| 
+|:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 0  | +0 | Philosophy of dark, Noir, |- | - | 1 | 1 | 1|
+| 1  | +1  | monochrome, Dark fragments, invocations | 2  | 2 | 1 | 1 | 1 |
+| 2  | +1  | Veil, subclass, | 3 | 2 |2  |1  |1  |  |
+| 3  | +1  | -| 3 | 3 |2  |2  |1  |  |
+| 4  | +2  | nanoblack | 4 | 3 |2  |2  |2  |  |
+| 5  | +2  |  -| 4 | 4 |3  |2  |2  |  |
+| 6  | +2  | skulker, evasion | 4 | 4 |3  |3  |2  |  |
+| 7  | +2  | - | 4 | 5 |3  |3  |3  |  |
+| 8  | +3 |  motionless| 5 | 5 |4  |3  |3  |  |
+| 9  | +3 | - | 5 | 6 |4  |4  |3  |  |
+| 10  | +3  | Elusive | 5 | 6 |4  |4  |4  |  
+
+...only working on the early levels
+
+# 07/07 - v1.9.9......almost there...
+
+## mystic 
+entirely reflavoured. Currently, it's unknown if we want to give the philosophies slot design to the warlock instead. we'll figure that out in due time.
+
+the main focus is on the thematic design of the class. 
+
+### Cultural inspirations
+A strong inspiration from historic astronomers, anchorites, midnight watchmen, acolytes. it's a class for characters that are comfortable breathing in the dark. It's a class that intentionally doesn't want to be in the spotlight much.
+
+### mechanical frameworks
+- The mystic is primarily a PATK / AATK class. In addition, they are the unique class to natively reduce all DEF.
+- as an anti-druid or anti-warlock of sorts, a mystic's Darkness is often chilling and bitter. they are amazing at shutting down effects or denying them in the first place.
+- retains the roguish cunning action, but repurposed into a different system that's more mechanically versatile and thematically aligned.
+- DoT specialists with a much friendlier action economy and less micromanaging.
+
+### thematic frameworks
+- certain celestial themes from the druid or theurge (circle of the stars, twilight domain) have been moved towards the mystic. That's not to say those two classes no longer can enjoy that theming, it's that the mystic has become a stronger host for the *cosmic dark*.
+- a strong theme of resonance - tuning the space around them to a state of natural quiet or even cold. 
+- a vast thematic theme, but entirely focused on being a friend of the dark, a class for those that dwell in the shadows with comfort. 
+- intended to move away from traditonal "rogue" frameworks. Martial aptitude is demonstrated in their kit, but it's not their defining feature.
+
+### a soulless class
+the mystic is one of few rare classes that can be played with a soulless character - other than the psion. it makes them a profoundly detached class, with no need to store mana, circulate chi, or bind them to this plane. 
+- mechanically, this makes them **blind to divination**. they cannot be detected easily with spells, or are captured in a divine augury. They seem to live as grey spots in the corner of your eye - and that also means their invisibly **cannot be seen**.
+- further, that means they are extremely resilient to soul-interface AATKs. They cannot lose what they don't have.
+- thematically, this can be a part of their core class as a specific subclass route.
+
+## classs features (new)
+### hide in plain sight
+now reworked. other than a ribbon stealth bonus, this makes them entirely invisible to: **divination** magic, full stop.
+and also, interestingly, **sight based detection**. provided they are hidden or invisible. They quite literally bend the light around them.
+
+# 12 / 07 - update v1.2
+
+## thematic class overhaul.
+
+as of writing, I still think a lot of the friction here is still trying to retrofit what the standard expectation for an RPG should look like, trying to turn classes that aren't really meant to be "spellcasters" into them via the aspect system. and all of this was trying to fit everything into a game that really didn't have the features meant to align well with a sharper, original design philosophy. it was like trying to use archaic mathematics to describe modern quantum physics.
+
+let's start from the start. Throw out everything we've said about the classes so far. ignore the class features. ignore the martial vs caster duality. let's focus on building up the lore first.
+
+with all of that as retrospect, let's introduce the lore of the game itself. The core game revolves around a set of mages, which are the core classes for the game.
+
+### the mages
+
+1. the blue mage. this is the wizard equivalent, blue mages are tained with the unnatural blue hue of the mana they weave into intricate formulae. there is no discrimination towards sorcerers; natural talent is a gift, and so is the capacity to learn.
+
+2. the green mage. this is the druid equivalent. the green mage delves into all things natural and worldly, their color reflecting the lifeforce they shelter and vitalise. green mages hold an affinity for animals too (despite wildshape not being that central to them like an rpg druid), as they extend their aid to all of the natural realm.
+
+3. the white mage. this is effectively our new class, the lucent, or a vague reflection of the "priest" archetype. The white mage is an architect of light, the most brilliant, pure, and primordial magic there is. their power sometimes drawn from, sometimes reflected, from celestial objects and their deities. their color is the purest shade of light there is, before it escapes what human eyes can see.
+
+4. the Black mage. this is our new mystic. the black mage is a philosopher of dark, watching over the lonely expanse of where light does not fall, or find solace under the soft lunar glow or a soothing blanket of night. they are the least traditional of the scholars, seeking a connection that bleeds black into their color.
+
+5. the violet mage. this is our warlock, a seeker of forbidden truths and deeper darks, whose color is as unnatural as their power - electrifying, crackling, and utterly aberrant. Some despise the color of their mana. others wield it as a prestigious symbol of pride of their identity. 
+
+6. the gold mage. this is our "oracle". the gold mage peers across the threads of time. they draw from, but are not bound by the principles of light, instead offering it as a divinatory eye's gaze. their color is the richest color a mortal can ever imagine, reflecting the preciousness of their most limited resource. though to do so, many also develop minds bordering on the hyperreal to process this cosmic data.
+
+7. the red mage. this is our sophist / bard. the red mage's color often comes from their theatrical costumes, not the mana they channel. red mages adopt this color as a symbol of viceral passion, their power lies within the harmonies in every person and object their is. 
+
+8. the silver mage. the most mysterious class, without a direct fantasy parallel. the common kineticist fantasy (not pf2, in general) of wielding motion and force itself. Silver mages are not wizards, thoguh their studies often collide. They bend space, cross planes, reverse or ignore gravity, generate invisible force, fabricate invincible lattices, and can often control the flux of the weave itself. They are our theoretical physicists to our pure physicists of the wizard. 
+
+### other classes that still exist....
+
+1. the artificer. the artificer that of an innovater, a tinkerer, and often times, a creator. artificers work their way with what's left. what isn't magical, organic, or divine - the raw stone and metal beneath their feet, and work it into miraculous homunculi, experimental elixirs, enchanted equipment, or devastating siege machines.
+
+2. the Monk. some wandering nomads. some attuned to the elements, some seeking inner perfection. Monks draw their power purely from lifeforce - qi - and once they master it within themselves, can influence the flow of it through the world.
+
+3. the Mystic (as in, the original psion). the mystics are a mysterious order, some naturally gifted, others unerringly trained, bordering on what it means to be a mage, as many do not consider themselves that. Their power is often mistaken for being limited to just the mind, when in truth, it is perception itself. If they must attend as mages, mystics often are robed in silver color, a color that mana cannot take, yet it itself can meld with any. 
+
+4. The medium. the medium delves deep into the world of the supernatural, and serve as undertakers, gravekeepers, and other roles too frightening for the average mage. mediums are, as their vocational name suggest, the mediator between the dead and the living, spirits and curses, the material and the abyssal planes. 
+
+5. the theurge. Plenty still draw their power from the divine, and plenty more are sent down as divine emissaries, who still wield a sword and shield from a past age. Theurges are loyal to their divinity, though the exact connection - a lineage, an oath, a domain, or simply, a stolen power, depends on the specific theurge.
+
+6. the nomads. though the green mages are our poster druid mirror, their study, even if natural and holistic, is still often organised - circles, rituals, ceremonies. The nomads are shamans, rangers, wayfarers, who live on the edge of civlisation, and if not, the material plane itself. Their work is often as invisible as they are; unglamorous, but often necessary duties like beast slaying, bounty hunting, or traveling across dangerous terrain.
+
+## sorcerer class updates
+
+#### the core design philosophy now: the sorcerer is intended to be a "wrapper" type class. you have the class "sorcerer" on your character sheet, but you progress through any other mage class of your choice. However, with two massive commitments:
+
+### Subclass replacement
+As we'll see later in "sorcerous soul", you cannot select a subclass. your subclass's free aspects, abilities, and class talents are entirely replaced by your sorcerous soul pathway.
+
+### background replacement
+as a sorcerer, you are defined by where you got your magic. A lineage, a curse, a freak accident, a pact, it doesn't matter. what matters is there's magic flowing in your system that makes your background visibly differnet to a normal character. Sorcerers replace their background features with **'Sorcerous origin'** instead. 
+
+They are actually, quite strong, and tend to scale well as you progress sicne the features become tied into your sorcerer soul subclass.
+
+## Sorcerer soul designs
+I'm not actually sure if i want to make this list genuinely broad and flavourful or keep them tied to the fundamental power sources. regardless, the subclass itself mechanically has the following features:
+
+#### 1. Font of magic pt 2 (pt 1 WIP concerns the power source)
+As a sorcerer, your affinity for magic runs deeper than your class. you gain the ability to compliment or replace aspects of your class with that of your font of magic instead. 
+
+you can learn a number of sorcerer aspects this way equal to your **Experience modifier.** if you already have sorcerer spells from elsewhere (background, subclass, etc), they do not count against this limit, and are considered permenantly known.
+
+- Once per level, you can learn one aspect from your font of magic, as long as it's not exclusive to another class.
+- Once you learn an aspect this way, it remains a known aspect to you. you may change your known aspects on a recovery or a level up.
+- doing so means learning one less aspect you would have originally gained from levelling through your class. 
+- if your chosen class *prepares* aspects, instead of learning them, your known sorcerer aspects count against the number of aspects you can prepare, but are still considered known aspects that are always prepared.
+- if your class both prepares and knows aspects, they no longer count against the number of aspects you can prepare, but as known aspects, you must still take them in place of aspects gained from levelling through your class.
+
+#### design notes...
+Taking sorcerer aspects is a commitment. it's not free - it's an expanded array you can pick from if you so choose. The rules neither favour known or prepared aspects.
+
+This is intended to draw back from the idea of "less spells, more ways to cast them" from the D&D sorcerer, with a much more limited scope as it's a subclass, not a class.

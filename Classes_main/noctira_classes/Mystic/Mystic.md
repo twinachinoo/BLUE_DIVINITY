@@ -29,20 +29,20 @@ As a mystic, you gain the following class features:
 |:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 0  | +0 | hide in plain sight, Shadow knife, pierce, Philosophy of dark |- | - | 1 | 1 | 1|
 | 1  | +1  | Dark fragments, invocations, piercing dark | 2  | 2 | 1 | 1 | 1 |
-| 2  | +1  | Cunning action, Drink light, subclass, | 3 | 2 |2  |1  |1  |  |
+| 2  | +1  | Cunning action, Monochrome, subclass, | 3 | 2 |2  |1  |1  |  |
 | 3  | +1  | -| 3 | 3 |2  |2  |1  |  |
-| 4  | +2  |  elusive, nanoblack | 4 | 3 |2  |2  |2  |  |
+| 4  | +2  | nanoblack | 4 | 3 |2  |2  |2  |  |
 | 5  | +2  |  -| 4 | 4 |3  |2  |2  |  |
 | 6  | +2  | skulker, evasion | 4 | 4 |3  |3  |2  |  |
 | 7  | +2  | - | 4 | 5 |3  |3  |3  |  |
-| 8  | +3 | nanoblack (x2), motionless| 5 | 5 |4  |3  |3  |  |
+| 8  | +3 |  Monochrome Mind, motionless| 5 | 5 |4  |3  |3  |  |
 | 9  | +3 | - | 5 | 6 |4  |4  |3  |  |
-| 10  | +3  | Antilight, Elusive | 5 | 6 |4  |4  |4  |  |
+| 10  | +3  | Elusive | 5 | 6 |4  |4  |4  |  |
 | 11  | +3 |- | 5 | 7 |5 |5  |4  |4  |
-| 12  | +4 | nanoblack (x3), bend gravity |  6 | 7 |5 |5  |4  | 
+| 12  | +4 |  bend gravity |  6 | 7 |5 |5  |4  | 
 | 13  | +4 | -| 6 | 8 |5 |5  |5  | 5 |
-| 14  | +4 | Antilight (x2)  | 6 | 8 |6 |5  |5  | 4 |
-| 15  | +4| Miracle of dark |6 | 9 |6 |6  |5 |
+| 14  | +4 | - | 6 | 8 |6 |5  |5  | 4 |
+| 15  | +4| drink light |6 | 9 |6 |6  |5 |
 | 16 + | +5| lightless | 7 | 9 |6 |6  |6  |
 
 ### Hide in plain sight
@@ -66,7 +66,7 @@ The Shadow knife is a one handed, light weapon with the following properties:
 The Mystic can manifest or Dispel a shadow knife with 1AP, provided they are **within melee of darkness.**
 
 ## The pierce action
-The Mystic's shadow knife, under certain conditions, can pierce physical and magical defense alike, rendering them significantly weaker than their actual protection. <br>
+The Mystic's shadow knife, under certain conditions, can move through physical and magical defense alike, rendering them significantly weaker than their actual protection. <br>
 1. You may take the pierce action once per turn with *any proficient, non-heavy weapon*, costing 2AP. It counts as an attack action, but forbades you from taking **further attack actions** that turn. 
 <br><br>
 2. The **Pierce** action is avaliable when attacking whilst *hidden* or *invisible*, or against *surprised* creatures. If you lose one of those conditions, but another remains, you can still take the Pierce action.
@@ -133,6 +133,8 @@ In both cases, your total number of aspects **must be equal to the amount you ha
 ### dark shards
 Mystics are serene, but they recognise the time for decisive, if brutal action. You have a number of Dark shards dictated by your class block. These are concentrated, frozen fragments of darkness that can unleash powerful *invocations*.
 
+you regain all Dark shards after a **respite period.**
+
 #### dark shard Tier
 your Dark shards are inert until activated, yet they have a degree of latent potency - their Tier. The tier of your dark shards is always equal to your **tier limit**.
 
@@ -142,10 +144,13 @@ when you invoke an invocation, you must expend a dark shard. The Aspect is autom
 ### piercing dark enhancement
 you can instantly expend a dark shard to enter the *piercing dark* state - at a tier equal to your dark shard. 
 
+### monochrome
+outside of combat, you can drain the colour from around you, to restore Dark shards to yourself. restore a number of dark shards equal to **half your total maximum** (round up). once you do so, you can't perform another monochrome ability until you finish a **rest period.**
+
 # Milestone 2
 
 ### nanoblack
-The mystic surrenders their form, their mortal husk, to the dark. They assume a *nanoblack* state - as they dissassemble into a shadow. They can move independantly in dim light or darkness, or assume the shadow of another target.
+The mystic surrenders their form, their mortal husk, to the dark. Twice per *rest period*, They can assume a *nanoblack* state - as they dissassemble into a shadow. They can move independantly in dim light or darkness, or assume the shadow of another target.
 
 - Shadow motion: you can climb or swim across any surface with darkness upon it.
 - assume shadow: whilst you're within melee of another shadow, you can assume it's place, being moved with whereever the target moves to or is being moved to. Motion this way costs **no movement speed**.
