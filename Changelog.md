@@ -368,6 +368,7 @@ and also, interestingly, **sight based detection**. provided they are hidden or 
 # 12 / 07 - update v1.2
 
 ## thematic class overhaul.
+beware! flowery prose ahead as i dump ideas. Clean changelogs ahead once this batch of changes is completed. 
 
 as of writing, I still think a lot of the friction here is still trying to retrofit what the standard expectation for an RPG should look like, trying to turn classes that aren't really meant to be "spellcasters" into them via the aspect system. and all of this was trying to fit everything into a game that really didn't have the features meant to align well with a sharper, original design philosophy. it was like trying to use archaic mathematics to describe modern quantum physics.
 
@@ -381,17 +382,17 @@ with all of that as retrospect, let's introduce the lore of the game itself. The
 
 2. the green mage. this is the druid equivalent. the green mage delves into all things natural and worldly, their color reflecting the lifeforce they shelter and vitalise. green mages hold an affinity for animals too (despite wildshape not being that central to them like an rpg druid), as they extend their aid to all of the natural realm.
 
-3. the white mage. this is effectively our new class, the lucent, or a vague reflection of the "priest" archetype. The white mage is an architect of light, the most brilliant, pure, and primordial magic there is. their power sometimes drawn from, sometimes reflected, from celestial objects and their deities. their color is the purest shade of light there is, before it escapes what human eyes can see.
+3. the white mage. this is effectively our new class, the lucent, or a vague reflection of the "priest" archetype. The white mage is an architect of light, the most brilliant, pure, and primordial magic there is. their power sometimes drawn from, sometimes reflected, from the primordial light and its deities. their color is the purest shade of light there is, before it escapes what human eyes can see.
 
 4. the Black mage. this is our new mystic. the black mage is a philosopher of dark, watching over the lonely expanse of where light does not fall, or find solace under the soft lunar glow or a soothing blanket of night. they are the least traditional of the scholars, seeking a connection that bleeds black into their color.
 
-5. the violet mage. this is our warlock, a seeker of forbidden truths and deeper darks, whose color is as unnatural as their power - electrifying, crackling, and utterly aberrant. Some despise the color of their mana. others wield it as a prestigious symbol of pride of their identity. 
+5. the violet mage. this is our warlock, a seeker of forbidden truths and deeper darks, whose color is as unnatural as their power - electrifying, crackling, and utterly aberrant. Some despise the color of their mana. others wield it as a prestigious symbol of pride of their identity. Some simply prefer the title warlock. others recieve it as a taboo.
 
-6. the gold mage. this is our "oracle". the gold mage peers across the threads of time. they draw from, but are not bound by the principles of light, instead offering it as a divinatory eye's gaze. their color is the richest color a mortal can ever imagine, reflecting the preciousness of their most limited resource. though to do so, many also develop minds bordering on the hyperreal to process this cosmic data.
+6. the gold mage. this is our "oracle". the gold mage peers across the threads of time. their color is the richest color a mortal can imagine, reflecting the preciousness of their most limited resource. though to do so, many also develop minds bordering on the hyperreal to process this cosmic data, with far seeing eyes and farther thinking minds.
 
 7. the red mage. this is our sophist / bard. the red mage's color often comes from their theatrical costumes, not the mana they channel. red mages adopt this color as a symbol of viceral passion, their power lies within the harmonies in every person and object their is. 
 
-8. the silver mage. the most mysterious class, without a direct fantasy parallel. the common kineticist fantasy (not pf2, in general) of wielding motion and force itself. Silver mages are not wizards, thoguh their studies often collide. They bend space, cross planes, reverse or ignore gravity, generate invisible force, fabricate invincible lattices, and can often control the flux of the weave itself. They are our theoretical physicists to our pure physicists of the wizard. 
+8. the silver mage. the most mysterious class, without a direct fantasy parallel. the kineticist fantasy (not pf2, in general) of wielding motion and force itself. Silver mages are not wizards, thoguh their studies often collide. They bend space, cross planes, reverse or ignore gravity, generate invisible force, fabricate invincible lattices, and can often control the flux of the weave itself. They are our theoretical physicists to our pure physicists of the wizard. 
 
 ### other classes that still exist....
 
@@ -406,6 +407,9 @@ with all of that as retrospect, let's introduce the lore of the game itself. The
 5. the theurge. Plenty still draw their power from the divine, and plenty more are sent down as divine emissaries, who still wield a sword and shield from a past age. Theurges are loyal to their divinity, though the exact connection - a lineage, an oath, a domain, or simply, a stolen power, depends on the specific theurge.
 
 6. the nomads. though the green mages are our poster druid mirror, their study, even if natural and holistic, is still often organised - circles, rituals, ceremonies. The nomads are shamans, rangers, wayfarers, who live on the edge of civlisation, and if not, the material plane itself. Their work is often as invisible as they are; unglamorous, but often necessary duties like beast slaying, bounty hunting, or traveling across dangerous terrain.
+
+#### will we add back the rogue?
+the rogue is a thematically poignant class fantasy that doesn't really see good coverage in our current list. however, their mechanical chassis overlaps heavily with both the monk and the nomads, as they're all finesse based skirmishers that excel at dextrous tasks, stealth, and critical attacks.
 
 ## sorcerer class updates
 
@@ -434,6 +438,122 @@ you can learn a number of sorcerer aspects this way equal to your **Experience m
 - if your class both prepares and knows aspects, they no longer count against the number of aspects you can prepare, but as known aspects, you must still take them in place of aspects gained from levelling through your class.
 
 #### design notes...
-Taking sorcerer aspects is a commitment. it's not free - it's an expanded array you can pick from if you so choose. The rules neither favour known or prepared aspects.
+Taking sorcerer aspects is a commitment. it's not free - just an expanded array you can pick from if you so choose. The rules neither favour known or prepared aspects.
 
 This is intended to draw back from the idea of "less spells, more ways to cast them" from the D&D sorcerer, with a much more limited scope as it's a subclass, not a class.
+
+## v1.2.0.2 the mystic...work in progress?
+### dissolution of the silver mage
+an amazing novel concept, but in the name of content bloat, it currently does not have enough to satisfy a role in the game without needing to take away from the blue, gold, white or black mages. it's amazing, it might come back, but for now it's redistributed, primiarily into the gold mage.
+
+however, let's turn to look at the other "silver" mage on our block - the mystic. properly crowned back to their psionic identity, the modern mystic can take up a lot of what made the silver mage interesting, and seamlessly slot it in under the guise of telepathy, perception and illusion, or something else. 
+
+#### master of the mind...
+the mystic is a master of the mind. but what does that mean? psionics aren't locked to them - the monk can access psionic diciplines, they train their minds. so can the red mages - their silver tongue and charm aren't magical, but they certainly arent mundane.
+
+as said, a mystic isn't just a master of their own mind, but they learn to masters others'. Through perception and information, they can bend the way others see the world, causing massive psychological damage without moving a single grain of dirt. they can conjure illusory dragons, maddening darkness, the projection of skybreak, or pierce someone's spell from a mile away with disrupt mind.
+
+### The v1.2 mystic
+To bolster their class fantasy, the title of a "silver mage" is a beaurocratic title for when they must attend as mages. Mystics do not learn from any one magical dicipline, but train the catalyst itself - their mind, to superhuman levels. Let's take a comprehensive, detailed look at the modern mystic design for v1.2
+
+Firstly, they possess strong mundane utility - reflected in their immense lore and sense triaots. they are able to take both mental stats with little diminishing returns or conflict of interest - whilst martials need to look into tenacity and finesse, and other mages need arcana, they disregard all of that.
+
+#### list of character skills avaliable:
+- knowledge
+- logic
+- percieve 
+- alert
+- search
+
+they are also considered **skilled** in any one of their choosing.
+
+### Class features
+
+#### prepared AND known caster
+this is reflected in their class structure. their aspects are known as psionic diciplines - which follow a known-and-prepared list like a wizard's spellbook. their powerful memory allows them to memorise a vast amount of them, and prepare a few they need on the day. 
+
+#### psionic philosophies
+and they inherit a system from the retired noctira mystic - remember the philosophies of dark? we turned them into a warlock class feature, but now - that same structure can be used here as psionic philosophies - each one representing a "bucket" of abilities, not dissimilar to what the UA mystic was going for in dnd. however, unlike the warlock, who gains them by level, the mystic can swap these out - offering them a massive amount of flexibility - both their aspects and core class talents are unshackled. 
+
+to do this of course, their class talents outside of their philosophies are quite limited, being generic stat boons or pure utility (like skill checks or surface level telepathy and mind reading). Which is a fair trade - their power budget is alreadu quite concentrated in those two main vectors.
+
+#### class abilities (design dump)
+Finally, their core class abilities revolve around enhancing their psionics in any way they can. they also gain important bonuses like innate telepathy, telekinesis, levitation, etc, and gain resistance, and later, immunity to mental conditions. 
+
+1. at Lv0, before gaining a single philosophy, with the stillness of mind feature, which shields them from the emotional turbulence of any nonmagical charm or fear. they are trained to be precise, unerring masters of their own mind, and later, others' too.
+
+2. This isn't just social utility - this is direct combat shutdowns. plenty of strong creature abilities rely on landing fear, charm, mad, dazed, etc, causing spellcasting disruption or misguided attacks. A dragon's frightening roar does nothing against a mystic.
+
+3. Thirdly, it creates a sort of threat that is felt throughout the game and its table not dissimilar to dnd's stunning strike. the possibility of a potential psychic dominance is enough to sway conversation or combat, and that leads to amazing character roleplay.
+
+## psionics
+psionics are a huge part of their mechanical and thematic identity, comprising both their aspects and their importnat class feature, philosophies. Currently, the design space for psionics gives them the following boons:
+
+#### psionics are not spellcasting. 
+#### at M3, they no longer need to concentrate. at all.
+1. require components, or need a magical focus. They are forever online. 
+2. this also means you can't "dispel magic" them, because it's not magic. same goes for antimagic field.
+3. you couldn't counterspell them anyway, they're not spells.
+
+okay. let's start working on the mystic.
+
+## v1.2.0.2, the mystic
+
+### early changes - mystic boons
+- there was the intend to add "psionic talents" as early game, free and useable minor effects, akin to cantrips. however, this was deemed unnecessary with the birth of Mystic boons and their evolutions.
+- mystic boons recieved a lot of development, returning to a model I had in mind from a long time ago. 
+- mystic boons are intended to be effects that scale with you, as fundamental psionic diciplines that don't consume psi points (at base), and continue to strengthen simply by levelling. 
+
+### aspect progressiohn - t2 or t1?
+- i'm not sure if i want to make them a t1 caster, and just bump up their philosophies a bit more. However, a lot of really flavourful psionic diciplines lie in the later levels, and cuitting them off from that supply would be more harm than benefit. In addition, i quite like the scaling of the philosophies.
+
+- however, changing their philosophies progression to be a little faster couldn't hurt. We can give the t2 caster + 4 slot philo idea to the warlock instead?
+- doing so would cause Minor telekinesis to go to lv1, and they get both psionics and philosophies at level 1? it wouldn't make much sense to give them "half"
+
+
+
+## WIP class block 1 - core class
+
+| Character level | Experience | Milestone range | Milestone features  | mystic boon| psi points | Philo slot 1 | Philo slot 2 | Philo slot 3 | 
+|:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 0  | +0  | M0 | psionics, telepathy  |Minor telekinesis | 2 | - | - | -
+| 1  | +0  | M1 |Psionic philosophies, Cold cognition | - | 4 | 1 | 1 | 1 |
+| 2  | +1  | M1 |mystic subclass, iron concentration | levitation  | 5 |2  |1  |1  |  
+| 3  | +1  | M1| -| -  |  7 |2  |2  |1  |  
+| 4  | +2  | M2 | Closed mind technique |Major telekinesis |  8 |2  |2  |2  | 
+| 5  | +2  | M2 |  -| -  |  9 |3  |2  |2  |  
+| 6  | +2  | M2 |- |  minor teleportation  | 11 |3  |3  |2  |  
+| 7  | +2  | M2 | - | -  |  12 |3  |3  |3  |  
+| 8  | +3 | M3  | Cyclic mind technique, Concealed concentration | Minor precognition | 15 |4  |3  |3  |  
+| 9  | +3 | M3 | - | -  | 16 |4  |4  |3  |  
+| 10  | +3 | M3 |-  | Major teleportation  | 17 |4  |4  |4  |
+| 11  | +3 | M3|- | -| 18 |5 |5  |4  |4  |
+| 12  | +4 | M4 | Redirect spell | domination | 19 |5 |5  |4  | 
+| 13  | +4 | M4 | -  | -  | 20 |5 |5  |5  | 5 |
+| 14  | +4| M4 | - | precognition  | 21 |6 |5  |5  | 4 |
+| 15  | +4 | M5 | ascendance: avatar, ascendance: aspect | ascendance: Ascendant boons |22|11 |6  |6 |
+| 16+  | +5| M5 | Lost library of Lhosung | - | 24 | 11 |11  |11  |
+
+## WIP class block 2 - aspects
+
+| Character level | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 |
+|:----------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 0               | 3  |    |    |    |    |    |    |    |    |    |
+| 1               | 3  | 2  |    |    |    |    |    |    |    |    |
+| 2               | 4  | 3  |    |    |    |    |    |    |    |    |
+| 3               | 4  | 3  | 2  |    |    |    |    |    |    |    |
+| 4               | 4  | 4  | 3  |    |    |    |    |    |    |    |
+| 5               | 4  | 4  | 3  | 2  |    |    |    |    |    |    |
+| 6               | 4  | 4  | 4  | 3  |    |    |    |    |    |    |
+| 7               | 4  | 4  | 4  | 3  | 1  |    |    |    |    |    |
+| 8               | 4  | 4  | 4  | 3  | 2  |    |    |    |    |    |
+| 9               | 4  | 4  | 4  | 3  | 2  | 1  |    |    |    |    |
+| 10              | 4  | 4  | 4  | 3  | 3  | 2  |    |    |    |    |
+| 11              | 4  | 4  | 4  | 3  | 3  | 2  | 1  |    |    |    |
+| 12              | 4  | 4  | 4  | 3  | 3  | 3  | 2  |    |    |    |
+| 13              | 4  | 4  | 4  | 3  | 3  | 3  | 2  | 1  |    |    |
+| 14              | 4  | 4  | 4  | 3  | 3  | 3  | 2  | 2  |    |    |
+| 15              | 4  | 4  | 4  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+| 16+             | 4  | 4  | 4  | 3  | 3  | 3  | 2  | 2  | 2  | 2  |
+
+
