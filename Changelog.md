@@ -510,9 +510,10 @@ okay. let's start working on the mystic.
 - however, changing their philosophies progression to be a little faster couldn't hurt. We can give the t2 caster + 4 slot philo idea to the warlock instead?
 - doing so would cause Minor telekinesis to go to lv1, and they get both psionics and philosophies at level 1? it wouldn't make much sense to give them "half"
 
+### minor optimisations....
+- using a brand new style of Class block, which explicitly lays out the milestone range. Also, for classes that scale on both class features and aspects 50/50, using a dual 
 
-
-## WIP class block 1 - core class
+## V1.2.1 mystic class block 1 - core class
 
 | Character level | Experience | Milestone range | Milestone features  | mystic boon| psi points | Philo slot 1 | Philo slot 2 | Philo slot 3 | 
 |:------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -629,3 +630,52 @@ Your mystic focus is an extension of your baseline focus, capable of adding an a
 **action cost**: it takes one AP to activate and maintain your mystic focus and recieve the benefits of your chosen *focus*, and none to disable it.
 
 **philosophical focus**: Each Mystic philosophy comes with a unique *focus* - a core representation of what that class talent is meant to achieve.  
+
+# v1.2.1.1 update
+Minor addition to the mystic class. There's a lot of content planned, so it's unsure if this is intended to be a full update or just a follow up to the last.
+
+In addition, instead of dumping all of the brainstorming with the mechanical changes, i will keep github commits solely focused on the changelog, and both will be avaliable from now on in this file.
+
+### design notes...
+- I really like the introduction of mystic focus. It gives more weight to their philosophies class features without adding more bloat, ensuring they can select which one of their prepared philosophies to elevate.
+
+- i'm not sure how much i like the mystic boon system. I might remove the major / minor system entirely, and introduce them as standalone class features, which you can take a philosophy to enhance into a "major" version - where said philosophies can be unlocked at when i had original minor / major upgrades planned.
+
+- not only will it make gaining each one more impactful, it also makes their existance more core to the mystic class as rock solid psionic tricks you can always have.
+
+ they should probably recieve a ribbon resistance to psychic damage somewhere...but i'm trying very hard to avoid design bloat.
+
+## Changelog:
+
+### mystic boons
+- Updated the mystic boons system, turning them into standalone features, each one given more weight and power.
+- to "upgrade" a mystic boon to its "major version", you can prepare the appropriate Philosophy for that. 
+- that also allows you to access certain mystic boons typically gained at later levels, earlier, provided you can spare the experience. 
+- Currently working on the first draft for each mystic boon. Will come either in this update or v1.2.1.2 as we clean up the mystic.
+
+### Class features
+- naming conventions changed. 
+- purity is now added, which grants them flat immunity to all mental conditions.
+- they remain a T2 aspect caster. Though their philosophies asre quite strong, their class features have slimmed down significantly to where aspects still play a major role in their kit.
+
+## v1.2.1.1 class block 1 - core class
+
+| Character level | Experience | Milestone range | Milestone features  | mystic boon|
+|:------------------|:-----:|:-----:|:-----:|:-----:|
+| 0  | +0  | M0 | psionics | telepathy  | 2 | - | - | -
+| 1  | +0  | M1 |Mystic philosophies, Cold cognition | telekinesis | 4 | 1 | 1 | 1 |
+| 2  | +1  | M1 |mystic subclass, iron concentration |  - | 5 |2  |1  |1  |  
+| 3  | +1  | M1| -| -  |  7 |2  |2  |1  |  
+| 4  | +2  | M2 | Closed mind technique | levitation |  8 |2  |2  |2  | 
+| 5  | +2  | M2 |  -| -  |  9 |3  |2  |2  |  
+| 6  | +2  | M2 |- |  - | 11 |3  |3  |2  |  
+| 7  | +2  | M2 | - | -  |  12 |3  |3  |3  |  
+| 8  | +3 | M3  | Cyclic psionics, Concealed concentration | teleportation  | 15 |4  |3  |3  |  
+| 9  | +3 | M3 | - | -  | 16 |4  |4  |3  |  
+| 10  | +3 | M3 |-  | -  | 17 |4  |4  |4  |
+| 11  | +3 | M3|- | -| 18 |5 |5  |4  |4  |
+| 12  | +4 | M4 | Purity, Redirect spell |  precognition | 19 |5 |5  |4  | 
+| 13  | +4 | M4 | -  | -  | 20 |5 |5  |5  | 5 |
+| 14  | +4| M4 | - | -  | 21 |6 |5  |5  | 4 |
+| 15  | +4 | M5 | ascendance: avatar, ascendance: aspect | ascendance: Ascendant boons |22|11 |6  |6 |
+| 16+  | +5| M5 | Lost library of Lhosung | - | 24 | 11 |11  |11  |
