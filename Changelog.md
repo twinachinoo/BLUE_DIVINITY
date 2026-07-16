@@ -442,7 +442,7 @@ Taking sorcerer aspects is a commitment. it's not free - just an expanded array 
 
 This is intended to draw back from the idea of "less spells, more ways to cast them" from the D&D sorcerer, with a much more limited scope as it's a subclass, not a class.
 
-## v1.2.0.2 the mystic...work in progress?
+# v1.2.0.2 the mystic...work in progress?
 ### dissolution of the silver mage
 an amazing novel concept, but in the name of content bloat, it currently does not have enough to satisfy a role in the game without needing to take away from the blue, gold, white or black mages. it's amazing, it might come back, but for now it's redistributed, primiarily into the gold mage.
 
@@ -605,7 +605,7 @@ A psionic dicipline is a specific methodology or technique in psionic practice y
 #### Silent psionics
 Psionics is silent and motionless, meaning they **do not require any components to deploy**. if an aspect otherwise has a material cost, as long as it's on your character, **you are not required to hold it.**
 
-# milestone 1
+## milestone 1
 
 ### Cold cognition
 As a mystic, your first milestone is mastering your mind against emotional turmoil. You can no longer recieve the *charmed* or *frightened* condition by **nonmagical** means.
