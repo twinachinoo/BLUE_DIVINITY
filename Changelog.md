@@ -1,6 +1,77 @@
 ### Changelog - Not fully updated, requiring previous commit notes
 
 
+# 4/6 - v1.0.1
+First ever use of Github. Previous updates to BD will be noted in a changelog. Currently working on porting content over and formalising their format.
+
+# 4/6 - wizard updates 1.0.1.1
+
+(no commit description...)
+
+### wizard flavour text updated
+All wizards share one unified type of aspects - spells. Spellcasting defines a wizard as much as their wand or pointy hat. It's the core of their class, and all of a wizard's class features come together to enhance their spellcasting. The wizard has the largest spell list - if not, largest aspect list, out of any class, offering no lack of options at all - from the whimsical and wonderous to the earth-shattering.
+
+### the Blue Mage
+The term wizard is a modern invention. In the ancient era of blue divinity, wizards were Blue Mages, capable of manipulating the blue-tinged colour of mana that seeped from ley lines. Even to this day, Wizards rely on this mysterious substance for sustained spellcasting or to brave intricate, high-tier spells; However, their own internal soul is more than enough to sustain most of their magical needs.
+
+### schools of wizardry
+Wizards often pursue specific branches of magical thought and expertise as they further their learning. the specific schools vary from different arcane academia across the world. For your PC, these are the subclass options your wizard character can choose from upon hitting milestone 1.
+
+## 5/6 - v1.1.1
+
+Ported over wizard details
+added spell list. needs refinement.
+second commit later in day.
+
+# 6/6 - v1.1.2
+1. massive class overhaul - removal of the warden archetype fully, tested with the idea of the lucent, and more.
+
+2. expanded priest and bard into theurge and sophist, allowing for broader, more interesting class dynamics and themes.
+
+3. Shifted oracle into a luminata pure caster, which makes sense. The theurge sits next to them.
+
+4. The medium and artificer are made optional classes depending on the setting.
+
+5. already begin working on balancing things like skill slots and the like, planned to be next.
+
+6. near finalised class grid. pretty unlikely to change main power source of any class.
+
+commit et al
+
+# 7/6 - v1.1.3
+Accidentally committed under the same version as last time. changes are made below:
+
+Massive updates. Introduced the 11 aspects of magic in their finality, as action verbs for what magic can do.
+
+cut out perception, metamorphosis, disortion, chaos, Miracle, as they were too overlapping with existing aspects of magic.
+
+potential huge progress with the  sophist and the wizard. Soon to see what's going to happen when they recieve their appropraite aspects of magic.
+
+added Information, mutation, destruction, fabrication. Adding new vectors for magic to be expressed within.
+
+Updates coming very soon.
+
+## 7/6 - created changelog.md and dev branch in github.
+
+# 8/6 - 1.1.4 
+Large shakeup into the aspects of magic. Removed overly niche ones (animation, destruction), and added general verbs: Fabrication, manipulation, restoration.
+
+each covers large parts of the game that previously had no home. Fabrication finds a neat home for wall of force as it does prismatic spray.
+
+manipulation is huge - everything from animate objects to dominate person, this is a huge gap finally plugged. mainly limited to physical matter.
+
+Restoration is a simple, but crucial one. healing spells, full stop, rely on this cateogry.
+
+manifestation has definitively taken over conjuration's role, and cleaned up a lot of mess with transportation and fabrication.
+
+is all.
+
+# 9/6 - 1.1.5
+- Default format for aspects of magic created. Each magic action now has its dedicated collection to start writing aspects into.
+
+- 11 aspect tiers finalized. A design choice that surely won't haunt us in the future.
+
+- Unsure if there should be another Chaos action verb. to cause chaos. Distortion is also a pretty poignant one, but we'll have to see just how necessary they are.
 
 # 23/06 - v1.1.6
 
@@ -365,10 +436,9 @@ the mystic is one of few rare classes that can be played with a soulless charact
 now reworked. other than a ribbon stealth bonus, this makes them entirely invisible to: **divination** magic, full stop.
 and also, interestingly, **sight based detection**. provided they are hidden or invisible. They quite literally bend the light around them.
 
-# 12 / 07 - update v1.2
+# 12 / 07 - update v1.2 - thematic overhaul.
 
-## thematic class overhaul.
-beware! flowery prose ahead as i dump ideas. Clean changelogs ahead once this batch of changes is completed. 
+#### beware! flowery prose ahead as i dump ideas. Clean changelogs will be written once this batch of mechanical changes is completed. 
 
 as of writing, I still think a lot of the friction here is still trying to retrofit what the standard expectation for an RPG should look like, trying to turn classes that aren't really meant to be "spellcasters" into them via the aspect system. and all of this was trying to fit everything into a game that really didn't have the features meant to align well with a sharper, original design philosophy. it was like trying to use archaic mathematics to describe modern quantum physics.
 
@@ -497,7 +567,7 @@ psionics are a huge part of their mechanical and thematic identity, comprising b
 
 okay. let's start working on the mystic.
 
-## v1.2.0.2, the mystic
+## v1.2.0.2, the mystic changelogs
 
 ### early changes - mystic boons
 - there was the intend to add "psionic talents" as early game, free and useable minor effects, akin to cantrips. however, this was deemed unnecessary with the birth of Mystic boons and their evolutions.
@@ -631,10 +701,10 @@ Your mystic focus is an extension of your baseline focus, capable of adding an a
 
 **philosophical focus**: Each Mystic philosophy comes with a unique *focus* - a core representation of what that class talent is meant to achieve.  
 
-# v1.2.1.1 update
+ ## 15/7 - v1.2.1.1 update
 Minor addition to the mystic class. There's a lot of content planned, so it's unsure if this is intended to be a full update or just a follow up to the last.
 
-In addition, instead of dumping all of the brainstorming with the mechanical changes, i will keep github commits solely focused on the changelog, and both will be avaliable from now on in this file.
+#### In addition, instead of dumping all of the brainstorming with the mechanical changes, i will keep github commits solely focused on the changelog, and both will be avaliable from now on in this file.
 
 ### design notes...
 - I really like the introduction of mystic focus. It gives more weight to their philosophies class features without adding more bloat, ensuring they can select which one of their prepared philosophies to elevate.
@@ -679,3 +749,131 @@ In addition, instead of dumping all of the brainstorming with the mechanical cha
 | 14  | +4| M4 | - | -  | 21 |6 |5  |5  | 4 |
 | 15  | +4 | M5 | ascendance: avatar, ascendance: aspect | ascendance: Ascendant boons |22|11 |6  |6 |
 | 16+  | +5| M5 | Lost library of Lhosung | - | 24 | 11 |11  |11  |
+
+# 17/07 - v1.2.2 Lore update
+Mainly focused around working on the lore of the world behind the game. Concete mechanical changes are coming, but currently most of the design changes are focused around exploring how classes relate to the current power structures in the Lore.
+
+## changelog
+- Silver mage indefinitely removed. Unsure if they're to be reimplimented as a unique class, since currently they share a large amount of overlap with the mystic and the wizard.
+
+## design notes...
+I will soon be writing this, but to preface for our coming lore exposition, I must establish some backstory.
+
+Te world is split into five major ages, and the mechanical chassis of the world currently takes place in age 5, the modern era - which is roughly sometime in the late rennaissance. This choice was deliberate - you ever wondered why i didn't add any "traditional martials" into my core class matrix? firearms. martial archetypes, along with the economies built around it - equipment, training, etc, cease to dominate as a class any longer. 
+
+Whilst technology continues to advance through human ingenuity, magic is a much more powerful, but voltiaile power source that can't be as easily tamed. Some species have a natural affinity for it, others can never access it. Some areas are rich with it, others dead. it's an unwieldy, dangerous gift, but it's nonteheless being adopted across society because of its sheer utility. 
+
+The following pieces of lore take inspiration from the renowned Dune series's bene gesserit, as well as the modern, cryptic SCP foundation's 05 council. The general premise is the same: an organisation of individuals so unbelievably powerful, yet shrouded in mystery.
+
+many forms of mage guilds have been established through the history of the ages. from ancient druid circles, priest temples, arcane academia, etc. they were sometimes incorporated into the governing structures, sometimes out of fear of their power, sometimes precisely to use them for that. 
+
+The most dominant empire of the modern age is the RU empire, mirroring somewhere along the song chinese historical analogy. An empire born from vicious warfare and stubborn diplomacy, the power vacuum was never perfectly filled. They constructed a grandiose city on a set of floating islands (suspended by the ley lines beneath), known collectively as Ru anu, literally the palace of the Ru. 
+
+In the center of this city is the Core of the arcane academia, where lies the mage's circle, (i have decided to keep the silver mage cut out indefinitely). These are elected members to represent the appropriate seven mage schools, but have two important honorary members. How exactly they're elected, through what process, remains similarly obscured.
+
+These are not your traditional pantheon of demigods style story. Their physical power is never disclosed, but it's not why they hold such an enigmatic grip. it's their access to knowledge that distinguishes this council as the uncontested top rank for everything else to pass down from. 
+
+for that reason, they also rarely make appearances, instead preferring to work for the knowledge they curate and study. They are simply described by their numbers as formality, but have their own nicknames.
+
+### the council of mages
+1. one is the head of the council, the strongest blue mage the academia has ever produced. his true age is unknown, as is his birth or death dates. He isn't that mysterious, but not obvius either, appearing as a profoundly ordinary human male, somewhere in his late 20s or 30s, without any signiature of physical or magical maturity.
+
+
+
+One has no special nickname, but if requested, he goes by his birth name, Linn. he is simply known by his magic. Linn founded the current version of the council, and has remained in no. 1 ever since. nobody really dares, or bothers to challenge his position.
+
+
+
+the reason for this high title is unknown. Arcane magic neither requires the him to have the strongest mind to parse its calculations nor the fittest body to store its mana. and yet, the blue mages hold the definitive upper hand in an era dominated by their general expertise - magic. he may be a prodigy, a sorcerer perhaps. or, a simulacrum of a long gone wizard. There's no clue to where his power comes from.
+
+
+
+2. Two, known by the nickname Lusalim, representing the white mages. She has never been seen walking, always hovering above the ground, orbited by strange spheres of light.
+
+
+
+You would think Linn to be the mathematican of the group, but it's actually Lusalim. Lusalim revolutionised Light-magic, turning an otherwise crude and abundant power source into both sculpture and weaponry, a transformation so extreme that no other light mage before her has dared. her fantatical research allows her to find the purest frequencies of what it means to *be* primordial light, without any ties to sorcerous or divine gifts of light magic.
+
+
+
+She is a half-elf, though her ironically cold demeanor seems more due to her obsessive work than her fey origin.
+
+
+
+3. three, known by the name Orier, is a cat, with no visible gender. Orier represents the green mages. Given concious thought and magical ability through the endless Qi that flows through the natural realm, their physical form has elevated them well past their short lived peers.
+
+
+
+Orier has lived for well over a millenia, their lifespan indefinitely extended through the life magic that circulates through them. he is a druid as much as he is an alchemist or apothecary. his personal greenhouses tower on the outer islands, where intriguing flora grow to be dissected into vital cures.
+
+
+
+4. Four, known by the name Sakhe, represents the black mages. his exact species is unkown, as their form is permenantly shrouded with their mana signiature. Four lead the heavy research into dark mana and its magic, extracting valuable information from traditionally taboo sources.
+
+
+
+sakhe's exact origin and purpose is as unknown, if not more mysterious, than the others, but he is rarely the one to contribute to conversation. There is the least amount of information on his mysterious figure. his life is occupied by a series of wandering voyages with no end goal, from crossing the night sky to the abyssal planes, as a cartographer of where even the light fears to go.
+
+
+
+5. there is no 5.
+
+
+
+6. six, known by the name Siet, is the representative of the gold mages. originally a court diviner, the mysterious dissapearance of the noble she served and the even more mysterious sudden call of the council has brought her here - a clink of fate that is definitely, totally, not of her own making.
+
+
+
+She is responsible for the purest standard of divination, working seemingly without exhaustion to callibrate minds and instruments alike to the orientation of celestial objects and the endless call of fate. She is rarely seen moving, generally choosing to sit in the council chair, or in her own conservatory, for months on end.
+
+
+
+She has a third, vertical eye on her forehead, which enables her expansive divination. it has the appearance of something geometric floating within, though what purpose this eye serves - an extention of her mind, her enigmatic visions, or her magic, is unknown.
+
+
+
+7. seven, named Heid, is a violet mage, and represents for violet mages are still somewhat in line with the expectation of what it means to be a mage before crossing the (muddy) moral barrier to a warlock. he's a figure with unorthodox metholodiges and strange thoughts, but the only one brave enough to go this deep into occult study without succumbing to a pact (or their own mind).
+
+
+
+heid is a human, with purple scars that snake across his skin, remnants of spoken curses stored in flesh instead of his mind. He has a history of negotation with the most aberrant of beings, and a personal lab that nobody has ever visited.
+
+
+
+8. Eight, named thsyth, is the council's honorary mystic. Thysth comes from the enigmatic city of thysqu (where he got his name), a mountanous, isolated library of mystic arts passed down through generations, and the ancient masters who can teach them. he has never attended physically, and in general, just doesn't like to attend, instead through some sort of projection or psionic instrument. it's unknown even if he has a physical form.
+
+
+
+his presence is felt through the mysterious obsidian obelisks that hover with the floating islands, which seem to be serving as some sort of storage device for recording the flux and flow of magic. baked into the crystal lattices is a primitive, simulated mind to handle the computation, with enough psionic power to levtiate the obelisk itself, or move it out of danger.
+
+
+
+9. nine, named Morne, is a representative for the red mages. he always appears aptly overdressed for any occasion he can find, commonly accompanied by a monocle for his near blind eye.
+
+
+
+Morne intimately feels the natural harmonics between the different forms of magic, and he can attune to them all. he's endlessly creative and artistic, having written an uncountable number of poems as well as composed manuscripts or scripted plays. Morne masters the principle of harmony, discovering what it is that makes bardic art inspire, strike fear, or soothe wounds to a degree that is certainly not just emotional, but a magic in between magics. until his passion for the arts leads him to establishing the sophist as a true mage color, the passionate red.
+
+
+
+10. is reserved for the blade saint, an angel of over 500 years old. The blade saint's true name cannot be spoken, as it is a divine command to do so. he is the other honourary guest to the circle
+
+
+the blade saint is the last semblance of martial dominance, but his role is not to be a leader or commander. as an angel, he seeks to observe the trajectory of mortal species, and has an enigmatic set of rigorous moral laws in his very being. angels have no lust, no anger, no greed, but neither can they feel true love, offering endless kindness through his unyielding sense of justice. 
+
+### the ley lines
+the reason I wanted to bring the ley lines into this discussion is because a lot of magic so far has suffered from being science vs nature. 
+
+let's look at a few holes in this "nature" category - even if they dont use ature magic, i'm looking for classes that get power just from existing.
+
+1. the priest archetype has been naturally moved to the theurge class, which steps away from the western baggage of a "cleric". 
+
+2. bards, as red mages, don't study "mind tricks", but the art of magic itself. Thast's two potential leakholes taken care of.
+
+3. finally, the druids, which many of the primal themes have been moved to the "nomad" class (which is more closely in line with the traditional druid or ranger), a distinct archetype for those who want it. 
+
+the distinction comes when green mages serve something closer to an aclehmist or apothecary type class, certainly respect and draw from nature, but do their own magical investgation. think of it more as proto biology than shamanism.
+
+The ley lines carry primordial energy that only splits into the different colors of mana, or the universal lifeforce - qi, as they sprout or are tapped into. For the current material plane, the leylines circulate thie energy from a central "Tree" of sorts that exists at the core of the planet, an upside down, hanging garden of supermassive blossoms that are actually connected to the mysterious Verdant plane - one of the many parallel planes, others including the silver, the twilight, the ethereal, etc. entering the verdant is like entering the fey wild. not reccomended, but its power is a crucial source of external energy, like the sun is to plants.
+
+For that reason, these blossoms are effectively, biological supercomputers over life, capable of recieving data through every ley line root and blossom. This fundamentally transforms magic from hard vs soft power to being a naturally medium power - requiring precise intellectual comprehension, calculation, and imagination, as much as it requires physical endurance, circulation, and attunement.
