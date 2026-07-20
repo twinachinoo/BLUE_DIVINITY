@@ -755,6 +755,9 @@ Mainly focused around working on the lore of the world behind the game. Concete 
 
 ## changelog
 - Silver mage indefinitely removed. Unsure if they're to be reimplimented as a unique class, since currently they share a large amount of overlap with the mystic and the wizard.
+- important lore update to the worldbuilding. Important locations, deities, and the central mage's circle.
++ began work on the mystery of five. that will be reserved for the worldlore.md document.
++ changelog was previously mainly used to catalog drafts. it will no longer be used to contain literally everything in an update.
 
 ## design notes...
 I will soon be writing this, but to preface for our coming lore exposition, I must establish some backstory.
@@ -877,3 +880,49 @@ the distinction comes when green mages serve something closer to an aclehmist or
 The ley lines carry primordial energy that only splits into the different colors of mana, or the universal lifeforce - qi, as they sprout or are tapped into. For the current material plane, the leylines circulate thie energy from a central "Tree" of sorts that exists at the core of the planet, an upside down, hanging garden of supermassive blossoms that are actually connected to the mysterious Verdant plane - one of the many parallel planes, others including the silver, the twilight, the ethereal, etc. entering the verdant is like entering the fey wild. not reccomended, but its power is a crucial source of external energy, like the sun is to plants.
 
 For that reason, these blossoms are effectively, biological supercomputers over life, capable of recieving data through every ley line root and blossom. This fundamentally transforms magic from hard vs soft power to being a naturally medium power - requiring precise intellectual comprehension, calculation, and imagination, as much as it requires physical endurance, circulation, and attunement.
+
+### locations
+There are a few important locations to take note of.
+
+Min. Min is a southern trade city, built on a convergence of Rivers. Built on an endless maze of canals, Min attracts poets and profit alike, their most prized cultural exports being drama, poetry, and art.
+
+min is sheltered with a lattice of hanging gardens, of flowers that bloom in each season, and lanterns that rise into the sky at night. There is never a day without beauty in this city.
+
+Thysqu: an isolated community of mystics far isolated in the southern mountains. Thysqu's elevation places them close to the borders between planes, but also closer to whatever lurks beyond the celestial dome.
+
+thysqu's mystics often serve as enigmatic oracles and soothsayers for the royal family and the noble houses. Their readings are unerringly true. 
+
+Ruhakh. An isolated, military bastion on the far north border of the empire. A sprawling maze of tall walls, taller towers, and endless soldiers. The city is constructed with black basalt, weathered from the bitter cold and the lack of care.
+
+Ruhakh is a prison - not for the most violent, but for the most careless. Political prisoners are sent here to starve. and so are innocent commoners, caught in the conflicts of the former.
+
+Re nu: Re nu is the emperial great palace city, situated on a set of floating islands far above the peasants below. Great waterfalls descend from each side, as the city is suspended by a network of obsidian obelisks constructed from a bygone age.
+
+Nobody knows who built the obelisks. or who suspended a landmass this high above the sky. The empire claims its a work of their greatest mages, but ask any of them, and you get the same response  - do they not know, or do they not want to know?
+
+Lhosung: a city lost to time, buried under the desert that creeps from the southwest. Once a city of gold, a capital of a bygone desert dynasty, now reduced to nomadic tents along a trade route.
+
+however, Lhosung remains difficult to capture. The desert climate means land conquest is difficult, and the rogue local fighters sabotage imperial outposts. The locals fiercely guard their territory, and the precious gold that lays beneath the sand.
+
+Jinhai: a community of distinguished scholars that grew into a small town. Built around a mysterious crater in the western border, with geometric patterns across the crash site, a lack of flora growth, and the most pressing mystery of all - how could something this big come down and make no disturbance? there were no reports of any loud sounds, any bright falling objects. No injuries are recorded.
+
+Yisu: a collection of islands far into the eastern sea, covered in maples with golden leaves year round. rarely do humans make the trecherous journey to reach this green paradise.
+
+there are ruins of a bygone civilisation. Ruins of great stone constructions and intricate sculpture. From what seem like ritual sites, community wells, noble housing - it was a full world, now left to the decay of time. researchers come and go, but each effort the empire makes to settle these islands leads to the mysterious dissapearance of the entire community.
+
+### deities
+There are no true deities in this world. There are false ones, and there are seats unfilled.
+
+1. Nysyth: The pale angel: Nysyth is the deity of light. ageless, timeless, devoid all emotion, never fraught with fear or boiling with anger, and pristinely clear of love. His light is pure, as pure as Light can be. There should never be impurities within his domain. No colors, no darkness. He will sanitize worlds again and again until his impossible ideal of purity is met. 
+
+2. Lanyin: the moonmaiden: a mortal, fair maiden, who ingested the elixir of immortality and rose to the heavenly palace. She now spends her lonely eternity in her decorated chariot, pulling the moon along the freezing cold night. She rests in the dark side when daybreak comes.
+
+3. [undecided name]: [undecided name] is the deity of flowers. they have no title, no discernable form, and no voice. [undecided name] exists whereever nature does, goes wherever the birds takes them, blooms where the sun graces the land, and offers sanctuary to all in their domain. [undecided name] is the last of the old gods left.
+
+4. [undecided name]: The timekeeper. [undecided name] is the deity of time and its endless march forward. He does not interfere with it, he simply comes to tidy what could disturb this delicate continuum. he is in all timelines, at all times, at once. Omniscient, yet not omnipotent.
+
+5. There is no number 5.
+
+6. Sequ: A hollow, lifeless husk. he drifts across the dark beyond the celestial dome. He is the deity of the twilight, the border between day and night, between light and dark. he offers rest to those after day, and guards against the horrors of night. His governance continues. His ideals persist. Its unknown how a deity can be born dead. Its unknown if he even has power, or if his power is in the belief he has any.
+
+more to come...
