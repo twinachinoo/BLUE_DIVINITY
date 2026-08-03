@@ -1,4 +1,4 @@
-# Mystic
+Nosiys
 mystics are philosophers of the dark. Sometimes solitary, often mysterious, Mystics devote themselves to a serene reverence: The night sky, the Dark side of the moon, a veil of magic, a shadow cast - The dark is what they ponder. From blades shaped from shadows to formless nanoblack, Mystics are one with the endless night.
 
 ### reverence
