@@ -1,10 +1,10 @@
 As of 04/08, I've decided to no longer clog up the original changelog, meant for mechanical changes, with narrative ones. Whilst the two certainly have strong overlap, this will serve as the hosting ground for the progression of the Lore of the game as a whole. Specific design decisions tailored towards the game's design principles is left for a dedicated Design notes page.
 
 # 17/07 - v1.2.2 Lore update
-## design notes...
-I will soon be writing this, but to preface for our coming lore exposition, I must establish some backstory.
 
-Te world is split into five major ages, and the mechanical chassis of the world currently takes place in age 5, the modern era - which is roughly sometime in the late rennaissance. This choice was deliberate - you ever wondered why i didn't add any "traditional martials" into my core class matrix? firearms. martial archetypes, along with the economies built around it - equipment, training, etc, cease to dominate as a class any longer. 
+to preface for our coming lore exposition, I must establish some backstory.
+
+The world is split into five major ages, and the mechanical chassis of the world currently takes place in age 5, the modern era - which is roughly sometime in the late rennaissance. This choice was deliberate - you ever wondered why i didn't add any "traditional martials" into my core class matrix? firearms. martial archetypes, along with the economies built around it - equipment, training, etc, cease to dominate as a class any longer. 
 
 Whilst technology continues to advance through human ingenuity, magic is a much more powerful, but voltiaile power source that can't be as easily tamed. Some species have a natural affinity for it, others can never access it. Some areas are rich with it, others dead. it's an unwieldy, dangerous gift, but it's nonteheless being adopted across society because of its sheer utility. 
 
