@@ -343,8 +343,8 @@ Voidstars are enigmatic starborn. their light is dim and their skin cold to touc
 
 (WIP....potentially its own race)
 
-# 04 / 08 - starborn lore update
-the following piece of lore was **added**:
+# v1.2.3 - 04 / 08 - starborn lore update
+No mechanical changes worth noting, the update cycle stays as v1.2.3. However, the following pieces of lore was **added**:
 
 ## On the half-starborns
 
@@ -375,3 +375,29 @@ The reason for that is a part of the starborn's core identity. Starborns are exc
 Whilst a lack of emotion makes them powerful calculators, it leaves them feeling eternally hollow, literally born without a soul. Though their minds are strong, humanoid forms are often frail; Starborn rarely become aggressive Martials, naturally preferring classes that allow them to consume endless lore. Their brain is an emulation, though the efficacy of that emulation is determined through their mentaltraits, ~~and isn't impervious to magical intrusion (charmed, frightened).
 
 It important to know that whilst starborn are mostly emotionless, they are not absent minded, or are they supergeniuses; they can still develop cognitive empathy, compassion, or respect, as well as they can choose to manipulate, exploit, or decieve.
+
+## v1.2.3 - 04 / 08 latis city update
+
+New locations:
+
+**Sagnic Facility:** outside the walls and before the farmland, lay the city guard’s training grounds and tradesmen. The expanse is owned and operated by H. Sagnic, though the excessive size of the purchase leaves onlookers curious but always driven away.
+
+**Opera house:** The Opera house resides as the architectural epicentre of the lavish Sescet district, its fond music and theatre becoming a local pastime. Constructed by H. Celeces, which establishes them as the oldest House to have a foot in Latis city.
+
+**Guild hall:** A rustic building of black painted metal embedded deep in the old city. It hosts independent guilds of the City, many of whom trade workers not aligned to the Noble 8. Though having lost much of its former relevance, it’s still the hub of those who hold onto the old ways of Latis.
+
+**Old cathedral** (old city): a Monument of white marble and gold, the old catherderal stands as a remnant of the Old latis of centuries past. it still serves as the core House of worship, with chapels dedicated to different divine domains. A rare sign of unity in an otherwise partitioned city, which gives the clergy its last grip on power against the rise of the Noble houses.
+
+**Courthouse** (castle district): in stark contrast to the decorated castle, the courthouse's appearance is as functional as its use. Latis city is not known for tight laws, but when they land, they come down harsh. The courthouse has seen more deaths than the mines.
+
+**City Gaol** (slums): Buried into the old docks, the City Gaol hosts everyone, from terrorists to framed innocents - though, with its tall granite walls, nobody really knows what goes on inside. The few that do make it out though - are changed forever.
+
+**Alcazy gardens** (sescet): Alcazy's gardens always carry an alchemical flair, even if meant for recreation. Great greenhouses constructed from intricate metal and glass, the interior lined with exotic blooms, some chromatic in color, some bioluminescient, and all a tinge magical.
+
+**South mines** (slums): At the edge of the city, the south mines have always been a preferred sentence to the gaol, though that opinion quickly sours under the noxous gases and backbreaking labour. Latis isn't minerally rich, but it certainly is abundant in building stone. Monous has set up a small outpost here for stonecarving work, but it's only a matter of time before they fold the mine into their collection....
+
+--
+
+there's an annoying distance reference on one of the maps. we will work on that soon.
+
+From now on, perhaps the campaign timeline file may be retired in favour of adding the lore directly to Blue Divinity's lore here.
