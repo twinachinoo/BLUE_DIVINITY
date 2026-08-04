@@ -342,3 +342,36 @@ Aethereal origin: you can manifest wisps of your own radiance and hurl them like
 Voidstars are enigmatic starborn. their light is dim and their skin cold to touch, yet they remain softly bioluminescent nonetheless, like the last gasp of a dying star. They remain perfectly rational and logical, yet carry a cold, cynical edge to their calculations.
 
 (WIP....potentially its own race)
+
+# 04 / 08 - starborn lore update
+the following piece of lore was **added**:
+
+## On the half-starborns
+
+Starborn don't always have the luxury of a full humanoid form. sometimes, if their stellar raw matter is compromised, budding starborn may instead meld into whatever humanoid stumbles across them, occupying a section of their mind to compute and utilising the physical husk for sustenance. An unwanted, but mandatory symbiosis is formed through the husk and the new stellar mind.
+
+These creatures don't always exhibit their starborn dweller. Many of which appear perfectly normal, with the starborn solely residing within their brain. 
+
+and indeed, for some of these individuals, the stellar occupation isn't entirely unwelcome; an enhanced mind and an array of stellar magic are undeniable benefits. Some become acclaimed researchers, spellcasters, or writers, their mind capable of operating for longer and far more efficiently than a baseline humanoid of their race.
+
+Unfortunately, for the unlucky few, the stellar matter will fight their flesh, creating uncanny, or even downright horrific half-humanoid, half-stellar amalgamations, known as *amalgams*.
+
+These amalgams may lose much of their distinctive features that do not contribute to the starborn's use for the body, stripping away superficial beauty to replace it with functional computing biology. The starborn has no further use for the husk once it's cognitive ability declines after its youth; For that reason, it aggresively optimises the energy expenditure within the body, often cutting off functions useless to it like reproduction, as starborn do not have a "gene" to be passed on.
+
+trying to evict a starborn dwelled within is near impossible; they interlink and integrate into the nervous system of the creature. For a amalgam, it's even worse, as trying to remove starborn flesh is as painful as their own. the only known method is reincarnation into an entirely different body, or through a dangerous, psionic incision, which starborn occupants are especially sensitive to.
+
+---
+
+and the following piece of lore was updated:
+
+When the pale stars fall across the material plane, some awaken as humanoids - a flawless emulation in near every aspect. A lack of blood beneath their skin means they have a particularly faded, almost silver-white appearance regardless of pigment, but beneath is nothing but a crystalline lattice. 
+
+**Perhaps that is the most telling sign of a starborn's biology: the mind is the only thing that matters, and the rest is simply supplementary. The age they appear as, the musculature they have, the gender they assign themselves, and other external factors are simply decorative to them, and thus, entirely unnecessary.** 
+
+**the origin story for these creatures are unknown, though the leading academic theory is they are quantum cognition units, sent from some celestial force or origin to synthesize and gather data across the cosmos. When queried, even most starborn do not know of their purpose, though they do not seem fettered or disturbed about it.** 
+
+The reason for that is a part of the starborn's core identity. Starborns are exceptionally still and silent, seeming to lack impulse, irrationality, or compulsion; **For many, they lack emotion entirely, operating solely on whatever their logic dictates**. They're defined by their flawless, if overcompensating, emulating of the brain. they excel at logical functions - rational thought, quantitative calculation, and exceptional memory. 
+
+Whilst a lack of emotion makes them powerful calculators, it leaves them feeling eternally hollow, literally born without a soul. Though their minds are strong, humanoid forms are often frail; Starborn rarely become aggressive Martials, naturally preferring classes that allow them to consume endless lore. Their brain is an emulation, though the efficacy of that emulation is determined through their mentaltraits, ~~and isn't impervious to magical intrusion (charmed, frightened).
+
+It important to know that whilst starborn are mostly emotionless, they are not absent minded, or are they supergeniuses; they can still develop cognitive empathy, compassion, or respect, as well as they can choose to manipulate, exploit, or decieve.

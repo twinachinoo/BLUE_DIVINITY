@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Notes.md",
+                "file": "Lore changelog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Notes"
+              "title": "Lore changelog"
             }
           }
         ],
@@ -216,8 +216,8 @@
   },
   "active": "764b32aadce815c2",
   "lastOpenFiles": [
-    "Lore changelog.md",
     "Design Notes.md",
+    "Lore changelog.md",
     "Changelog.md",
     "base.base",
     "Untitled 2.canvas",
