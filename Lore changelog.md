@@ -401,3 +401,49 @@ New locations:
 there's an annoying distance reference on one of the maps. we will work on that soon.
 
 From now on, perhaps the campaign timeline file may be retired in favour of adding the lore directly to Blue Divinity's lore here.
+
+# v1.2.4: The seek
+The starborn concept has divulged into two rather distinct identities. the idea of a celestial "seeker for data" is quite distinct from that of someone born from the fallen debris of the cosmos.
+
+a very interesting, and much sharper identity for a race. It's clear they're aberrant in many ways, but also human in others. emotions are flaws - anomalies, and yet, they open up data never accessible otherwise.
+
+### lore for the seek (WIP)
+
+The origin of a seek is unknown, and so is their purpose. They come from afar - beyond the sky, some say plainly. And yet, through coincidence or purpose, appear uncannily humanoid. The seek do not talk of it openly, but obscure research claims it's for blending in to personally gather information about the weird sentient species they wish to study.
+
+However, their bodies are not nearly as...detailed, as a normal humanoid mortal. They appear in many ways, a humanoid in the making - the basic functions are all present, but devoid of all personal uniqueness. 
+
+The age they appear as, the musculature they have, the gender they assign themselves, and other external factors are simply decorative to them, and thus, entirely unnecessary. They are pigmented simply, with many appearing entirely in shades of grey - from their hair to their skin, to even their blood. Except for perhaps their eyes, which are often solid, stygian blacks. Some are occasionally adorned with glimmers or patterns in their flesh, yet they do not hold any reverence to it; a simple birthmark to them. They are often described as "monochrome peoples" for this set of appearances.
+
+Their appearances can best be described as...perfectly average. No need for beauty, but no need for unecessary hostility either. 
+
+Perhaps that is the most telling sign of a seek's biology: the mind is the only thing that matters, and the rest is simply supplementary. 
+
+the origin story for these creatures are unknown, though the leading academic theory is they are quantum cognition units, sent from some celestial force or origin to synthesize and gather data across the cosmos. When queried, even most seek do not know of their purpose, though they do not seem fettered or disturbed about it. That is also, where their name was coined; and seeing as they had no collective need for a name before, it was adopted instantly. 
+
+The reason for that is a part of the seek's core identity. seek are exceptionally still and silent, seeming to lack impulse, irrationality, or compulsion; For many, they lack emotion entirely, operating solely on whatever their logic dictates. They're defined by their flawless, if overcompensating, emulating of the brain. they excel at logical functions - rational thought, quantitative calculation, and exceptional memory. 
+
+Whilst a lack of emotion makes them powerful calculators, it leaves them feeling eternally hollow, literally born without a soul. Though their minds are strong, humanoid forms are often frail; Seek rarely become aggressive Martials, naturally preferring classes that allow them to consume endless lore. Their brain is an emulation, though the efficacy of that emulation is determined through their mental stats.
+
+It's important to know that whilst seek are mostly emotionless, they can still develop cognitive empathy, compassion, or respect, as well as they can choose to manipulate, exploit, or decieve.
+
+---
+
+If it were that simple, the seek would be a very uniform race. But they are not; not all seek are perfect emulations. From cosmic radiation, to magical interference, to physical deformation, not all seek are born perfect. Yet, the cause for most imperfections are that of a simple cause: experience.
+
+When the seek leave the cold of space and enter the warmth of humanoid hospitality, some seek may hold an inkling of space in their logical minds for illogical emotion. They may begin to experience things that a simple report cannot describe. They begin to collect memories - beautiful, everlasting ones, interwoven with inexplicable, painful ones.
+
+For many seek it's illogical. But others? will be "flawed" enough to feel. deeply, richly, as much as they think. Anomalies, they're called, being washed over with anger, grief, awe - with no words to describe it. So, the logical outcomes are simple: some supress it for their lifetime, it's irrational, so it's impractical. Others, are frightened - fear, a fear of exploring the unknown, of a world stranger than magic. 
+
+But few of the few, will think, think deeply, not just feel, their emotions. They will question them, grapple with them, test them. seek of this rarity are considered the most anomalous, but perhaps they are the most flawless emulation of the real human brain, with all of its flaws intentional. 
+
+so they began to seek; not just knowledge, but experiences. Love. Passion. victory and success, right and wrong - just to feel it, feel what they cannot compute nor understand, but is so vicerally real it has no comparison. And in this journey, they begin to feel something they never did before - individuality. They begin to look, act, sound, as they wish, finding it important that they don't just think - they believe - in what it means to be themselves. 
+
+And for some seek - when they do brave this journey, color begins to rise in them. distinct, organic shapes and patterns form across their flesh, each a celebration of their welcoming of the messy colors of life into their mind, and slowly, into the heart they never had.
+
+and once a seek the threshold, into what's considered anomalous - there's often no way back. no way to go but forward, deeper into the dark ocean of unpredictable, yet endlessly deep emotion. It may take a lifetime for a seek to make that decisive jump - yet many describe it as something that simply occured, as they continued to live. Perhaps that is what life means to them.
+
+
+--
+
+(for the starborn update to come): what does it mean to be noble when sacrifice is illogical? why does love ache the heart? Why preserve honor for you in the present, and a legacy of you for the future? what is beauty? art? 
