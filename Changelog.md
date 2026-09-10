@@ -765,3 +765,35 @@ Mainly focused around working on the lore of the world behind the game. Concete 
 - nomad removed for now. See design changelog.
 
 As of 04/08, I've decided to no longer clog up the original changelog, meant for mechanical changes, with narrative ones. Whilst the two certainly have strong overlap, this will serve as the hosting ground for the progression of the Lore of the game as a whole. Specific design decisions tailored towards the game's design principles is left for a dedicated Design notes page.
+
+# 10/09 v1.3 - Mystic update v2 and major class changes overral.
+after a long break, returning to continue to work on the mystic, and psionics as a whole. Now, there are specific background and milestone feats avaliable specifically designed around psionics, and all classes have recieved a massive overhaul to make them more streamlined.
+
+| Character level | Experience |Core class |  Avaliable philosophies  | philosophy slots | 
+|:------------------|:-----:|:-----:|:-----:|:-----:|
+| 0  | +0  |  psionics, psi points telepathy | - | - | - | - | -
+| 1  | +1  | Mystic philosophies, milestone |telekinesis, Cold cognition, iron concentration, mystic recovery, Assault mind, pale purity | 2 | 1 | 1 | 1 |
+| 2  | +1  | mystic subclass | subclass options | 2 |2  |1  |1  |  
+| 3  | +1  |  -| - |  2 |2  |2  |1  |  
+| 4  | +2  | Milestone | Closed mind technique, iron concentration,  levitation |  3 |2  |2  |2  | 
+| 5  | +2  |  -| - |  3 |3  |2  |2  |  
+| 6  | +2  | - | subclass options | 3 |3  |3  |2  |  
+| 7  | +2  |  - | -  | 3 |3  |3  |3  |  
+| 8  | +3 | Milestone | Cyclic psionics, Concealed concentration,  teleportation | 4 |4  |3  |3  |  
+| 9  | +3 |  - | -  | 4 |5  |4  |3  |  
+| 10  | +3 | - |  subclass options | 4 |4  |4  |4  |
+| 11  | +3 | - | -| 4 |5 |5  |4  |4  |
+| 12  | +4 | Milestone | Pale Purity, Redirect spell, precognition  | 5 |5 |5  |4  | 
+| 13  | +4 | -  | -  | 5 |5 |5  |5  | 5 |
+| 14  | +4| | - | 5 |6 |5  |5  | 4 |
+| 15  | +4 |  ascendance: avatar, ascendance: aspect | -|5|11 |6  |6 |
+| 16+  | +5| Lost library of Lhosung | - | 5 | 11 |11  |11  |
+
+## philsophies and class features - Important
+- a huge update to class design as a whole. Each class has a pool of different class features avaliable after each milestone they can select on even levels, whcih are seperate from core class options. 
+- This means there is no need at all for class talents, as the choices between decisive, defining class features is enough to create unique characters.
+- experience is now used to purchase an appropriate class feature. It is no longer just a simple marker of level strength.
+
+- For the mystic, this is their defining identity, being able to effectively, swap in and out class features, then upgrade them by turning experience into a fluid pool.
+
+- the three levelling slots idea is best reserved for the warlock or for medium summon slots.
