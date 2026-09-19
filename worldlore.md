@@ -83,6 +83,9 @@ Morne intimately feels the natural harmonics between the different forms of magi
 
 the blade saint is the last semblance of martial dominance, but his role is not to be a leader or commander. as an angel, he seeks to observe the trajectory of mortal species, and has an enigmatic set of rigorous moral laws in his very being. angels have no lust, no anger, no greed, but neither can they feel true love, offering endless kindness through his unyielding sense of justice. 
 
+### the mystery of five (WIP)
+In the lore, the fifth member of the mage's council ascended to apotheosis after a grand spell, one grander than any cast prior. One that tries to transcend space itself. and it was successful. so successful in fact, they fell out of the world's existance, fell beyond space, and into a realm unknown.
+
 ## **Locations**
 
 There are a few important locations to take note of. Reasonable to assume every PC knows.
@@ -343,8 +346,6 @@ Though, a starborn dweller isn't inherently malicious, and often, has no intenti
 
 Base Traits
 
-Ability Score Increase: as per other races. \+2, \+1.
-
 Age: starborn are timeless, ageless, and live for millennia. They appear as one age eternally, which seems to be an arbitrary, almost redundant choice.
 
 Alignment: often preferring neutral. Though, if there’s logical reason to act otherwise, their alignment and morals are fluid.
@@ -359,6 +360,5 @@ Languages: Through some mysterious reason, you are exceptionally fluent in Commo
 
 more to come...
 
-## the mystery of five (WIP)
-In the lore, the fifth member of the mage's council ascended to apotheosis after a grand spell, one grander than any cast prior. One that tries to transcend space itself. and it was successful. so successful in fact, they fell out of the world's existance, fell beyond space, and into a realm unknown.
+
 

@@ -2,7 +2,62 @@ As of 04/08, I've decided to no longer clog up the original changelog, meant for
 
 # 17/07 - v1.2.2 Lore update
 
-to preface for our coming lore exposition, I must establish some backstory.
+# 04/08 - Class restructuring
+The following is directly ported over from the base changelog.md:
+
+1. the blue mage. this is the wizard equivalent, blue mages are tained with the unnatural blue hue of the mana they weave into intricate formulae. there is no discrimination towards sorcerers; natural talent is a gift, and so is the capacity to learn.
+
+2. the green mage. this is the druid equivalent. the green mage delves into all things natural and worldly, their color reflecting the lifeforce they shelter and vitalise. green mages hold an affinity for animals too (despite wildshape not being that central to them like an rpg druid), as they extend their aid to all of the natural realm.
+
+3. the white mage. this is effectively our new class, the lucent, or a vague reflection of the "priest" archetype. The white mage is an architect of light, the most brilliant, pure, and primordial magic there is. their power sometimes drawn from, sometimes reflected, from the primordial light and its deities. their color is the purest shade of light there is, before it escapes what human eyes can see.
+
+4. the Black mage. this is our new mystic. the black mage is a philosopher of dark, watching over the lonely expanse of where light does not fall, or find solace under the soft lunar glow or a soothing blanket of night. they are the least traditional of the scholars, seeking a connection that bleeds black into their color.
+
+5. the violet mage. this is our warlock, a seeker of forbidden truths and deeper darks, whose color is as unnatural as their power - electrifying, crackling, and utterly aberrant. Some despise the color of their mana. others wield it as a prestigious symbol of pride of their identity. Some simply prefer the title warlock. others recieve it as a taboo.
+
+6. the gold mage. this is our "oracle". the gold mage peers across the threads of time. their color is the richest color a mortal can imagine, reflecting the preciousness of their most limited resource. though to do so, many also develop minds bordering on the hyperreal to process this cosmic data, with far seeing eyes and farther thinking minds.
+
+7. the red mage. this is our sophist / bard. the red mage's color often comes from their theatrical costumes, not the mana they channel. red mages adopt this color as a symbol of viceral passion, their power lies within the harmonies in every person and object their is. 
+
+8. the silver mage. the most mysterious class, without a direct fantasy parallel. the kineticist fantasy (not pf2, in general) of wielding motion and force itself. Silver mages are not wizards, thoguh their studies often collide. They bend space, cross planes, reverse or ignore gravity, generate invisible force, fabricate invincible lattices, and can often control the flux of the weave itself. They are our theoretical physicists to our pure physicists of the wizard. 
+
+### other classes that still exist....
+
+1. the artificer. the artificer that of an innovater, a tinkerer, and often times, a creator. artificers work their way with what's left. what isn't magical, organic, or divine - the raw stone and metal beneath their feet, and work it into miraculous homunculi, experimental elixirs, enchanted equipment, or devastating siege machines.
+
+2. the Monk. some wandering nomads. some attuned to the elements, some seeking inner perfection. Monks draw their power purely from lifeforce - qi - and once they master it within themselves, can influence the flow of it through the world.
+
+3. the Mystic (as in, the original psion). the mystics are a mysterious order, some naturally gifted, others unerringly trained, bordering on what it means to be a mage, as many do not consider themselves that. Their power is often mistaken for being limited to just the mind, when in truth, it is perception itself. If they must attend as mages, mystics often are robed in silver color, a color that mana cannot take, yet it itself can meld with any. 
+
+4. The medium. the medium delves deep into the world of the supernatural, and serve as undertakers, gravekeepers, and other roles too frightening for the average mage. mediums are, as their vocational name suggest, the mediator between the dead and the living, spirits and curses, the material and the abyssal planes. 
+
+5. the theurge. Plenty still draw their power from the divine, and plenty more are sent down as divine emissaries, who still wield a sword and shield from a past age. Theurges are loyal to their divinity, though the exact connection - a lineage, an oath, a domain, or simply, a stolen power, depends on the specific theurge.
+
+6. the druids. though the green mages exist, their study, even if natural and holistic, is still often organised - circles, rituals, ceremonies. The druids are shamans, rangers, wayfarers, who live on the edge of civlisation, and if not, the material plane itself. Their work is often as invisible as they are; unglamorous, but often necessary duties that they must tend to nature itself.
+
+## Class changes and new classes
+
+- Green mage cleanly designated as the apothecary / alchemist type class. The nomad has been removed as the Druid now serves a much wider role over specifically flora and fauna, which it recieved as part of trimming its identity on other parts of the natural world. naturally, that pushes out the main appeal of the Nomad. 
+- as part of that, Due to the decentralization of combat as the game's core drive, skills and class talents now serve to make anyone a "Specialist" of their choosing. The Nomad's ability to be a survivalist is a poignant identity, but currently, not enough to make them an entire class.
+- however, The spiritual side of their class is extremely interesting. it's likely they will become the second sysyna class alongside the medium, reframed as a more shamanic warrior type class.
+- as part of that, the Sorcerer class is in brainstorming phase, serving as an Ascetic of magic. instead of being a class built solely around innate power (which sorcerous origins serve to replace), this becomes a class for anyone that wishes to invoke the mana within them through a martial arts - style class, drawing inspiration from ATLA.
+
+### the sorcerer
+the sorcerer class is shaping up to be potentially one of the most unique options unique to this world and its landscape. If they are ascetics of magic, they cannot spend the time to memorize complex arcane formulae or make pacts with archfey. They must channel the most fundamental of magic within every living person - elementalism.
+
+the sorcerer becomes a class somewhat inspired by the ATLA series and "bending" the elements, serving as an elemental focused warrior type role, which gives me great expanse into designing a really interesting chassis for them. Their magic is expressed somatically, and they also utilise diciplines - many of which shared with the monk themselves, but also have access to all the elemental spell options too.
+
+This effectively, in many ways, makes them the spellblade class of our class matrix. their aspect list is a blend of monk-style diciplines - internal, trained reflex, and elemental-damage spells, representing an excercise over external mana too. 
+
+They are naturally tanky - with the luxury of unarmored defense, and can heal themsevles with water magic. Fire and earth magic also make them great all-round attackers. 
+
+### backgrounds
+background boons should be more than just a simple flavour option. each background has a set of narrative flavour, but may allow you to take specific background feats. However, the balance of these will have to be tested significantly. 
+
+all background feats will be balanced against each other, offering a smattering of aspects and some passives. that's it. None will favour one class more than another, and are intended to be different playstyles you can lock into your character early on.
+
+
+# world history
 
 The world is split into five major ages, and the mechanical chassis of the world currently takes place in age 5, the modern era - which is roughly sometime in the late rennaissance. This choice was deliberate - you ever wondered why i didn't add any "traditional martials" into my core class matrix? firearms. martial archetypes, along with the economies built around it - equipment, training, etc, cease to dominate as a class any longer. 
 
@@ -12,8 +67,7 @@ The following pieces of lore take inspiration from the renowned Dune series's be
 
 many forms of mage guilds have been established through the history of the ages. from ancient druid circles, priest temples, arcane academia, etc. they were sometimes incorporated into the governing structures, sometimes out of fear of their power, sometimes precisely to use them for that. 
 
-The most dominant empire of the modern age is the RU empire, mirroring somewhere along the song chinese historical analogy. An empire born from vicious warfare and stubborn diplomacy, the power vacuum was never perfectly filled. They constructed a grandiose city on a set of floating islands (suspended by the ley lines beneath), known collectively as Ru anu, literally the palace of the Ru. 
-
+The most dominant empire of the modern age is the RU empire, mirroring somewhere along the song chinese historical analogy. An empire born from vicious warfare and stubborn diplomacy, the power vacuum was never perfectly filled. They constructed a grandiose city on a set of floating islands (suspended by the ley lines beneath), known collectively as Re Nu.
 In the center of this city is the Core of the arcane academia, where lies the mage's circle, (i have decided to keep the silver mage cut out indefinitely). These are elected members to represent the appropriate seven mage schools, but have two important honorary members. How exactly they're elected, through what process, remains similarly obscured.
 
 These are not your traditional pantheon of demigods style story. Their physical power is never disclosed, but it's not why they hold such an enigmatic grip. it's their access to knowledge that distinguishes this council as the uncontested top rank for everything else to pass down from. 
@@ -34,9 +88,9 @@ You would think Linn to be the mathematican of the group, but it's actually Lusa
 
 She is a half-elf, though her ironically cold demeanor seems more due to her obsessive work than her fey origin.
 
-3. three, known by the name Orier, is a cat, with no visible gender. Orier represents the green mages. Given concious thought and magical ability through the endless Qi that flows through the natural realm, their physical form has elevated them well past their short lived peers.
+3. three, known by the name Orier, is a cat, with no visible gender. Orier represents the not the green mages, but the druids. Given concious thought and magical ability through the endless Qi that flows through the natural realm, their physical form has elevated them well past their short lived peers.
 
-Orier has lived for well over a millenia, their lifespan indefinitely extended through the life magic that circulates through them. he is a druid as much as he is an alchemist or apothecary. his personal greenhouses tower on the outer islands, where intriguing flora grow to be dissected into vital cures.
+Orier has lived for well over a millenia, their lifespan indefinitely extended through the life magic that circulates through them. They are the direct voice for the flora and fauna of this plane, and their guardian alike. 
 
 4. Four, known by the name Sakhe, represents the black mages. his exact species is unkown, as their form is permenantly shrouded with their mana signiature. Four lead the heavy research into dark mana and its magic, extracting valuable information from traditionally taboo sources.
 
@@ -720,5 +774,4 @@ Speed: 30 feet.
 Languages: Through some mysterious reason, you are exceptionally fluent in Common. You may also naturally reconstruct in your mind, another language you frequently hear or see. You can Speak, write, and read in both languages.
 
 \--- (WIP)
-
 

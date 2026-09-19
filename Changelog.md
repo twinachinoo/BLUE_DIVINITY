@@ -476,7 +476,7 @@ with all of that as retrospect, let's introduce the lore of the game itself. The
 
 5. the theurge. Plenty still draw their power from the divine, and plenty more are sent down as divine emissaries, who still wield a sword and shield from a past age. Theurges are loyal to their divinity, though the exact connection - a lineage, an oath, a domain, or simply, a stolen power, depends on the specific theurge.
 
-6. the nomads. though the green mages are our poster druid mirror, their study, even if natural and holistic, is still often organised - circles, rituals, ceremonies. The nomads are shamans, rangers, wayfarers, who live on the edge of civlisation, and if not, the material plane itself. Their work is often as invisible as they are; unglamorous, but often necessary duties like beast slaying, bounty hunting, or traveling across dangerous terrain.
+6. the druids. though the green mages exist, their study, even if natural and holistic, is still often organised - circles, rituals, ceremonies. The druids are shamans, rangers, wayfarers, who live on the edge of civlisation, and if not, the material plane itself. Their work is often as invisible as they are; unglamorous, but often necessary duties that they must tend to nature itself.
 
 #### will we add back the rogue?
 the rogue is a thematically poignant class fantasy that doesn't really see good coverage in our current list. however, their mechanical chassis overlaps heavily with both the monk and the nomads, as they're all finesse based skirmishers that excel at dextrous tasks, stealth, and critical attacks.
@@ -512,8 +512,11 @@ Taking sorcerer aspects is a commitment. it's not free - just an expanded array 
 
 This is intended to draw back from the idea of "less spells, more ways to cast them" from the D&D sorcerer, with a much more limited scope as it's a subclass, not a class.
 
-# v1.2.0.2 the mystic...work in progress?
+# v1.2.0.2 the mystic.
+## core: - mystics are restored as the premier psionic class. The original dark philsopher identity has become the black mage.
+
 ### dissolution of the silver mage
+
 an amazing novel concept, but in the name of content bloat, it currently does not have enough to satisfy a role in the game without needing to take away from the blue, gold, white or black mages. it's amazing, it might come back, but for now it's redistributed, primiarily into the gold mage.
 
 however, let's turn to look at the other "silver" mage on our block - the mystic. properly crowned back to their psionic identity, the modern mystic can take up a lot of what made the silver mage interesting, and seamlessly slot it in under the guise of telepathy, perception and illusion, or something else. 
@@ -523,7 +526,7 @@ the mystic is a master of the mind. but what does that mean? psionics aren't loc
 
 as said, a mystic isn't just a master of their own mind, but they learn to masters others'. Through perception and information, they can bend the way others see the world, causing massive psychological damage without moving a single grain of dirt. they can conjure illusory dragons, maddening darkness, the projection of skybreak, or pierce someone's spell from a mile away with disrupt mind.
 
-### The v1.2 mystic
+# The Restored psionic v1.2 mystic
 To bolster their class fantasy, the title of a "silver mage" is a beaurocratic title for when they must attend as mages. Mystics do not learn from any one magical dicipline, but train the catalyst itself - their mind, to superhuman levels. Let's take a comprehensive, detailed look at the modern mystic design for v1.2
 
 Firstly, they possess strong mundane utility - reflected in their immense lore and sense triaots. they are able to take both mental stats with little diminishing returns or conflict of interest - whilst martials need to look into tenacity and finesse, and other mages need arcana, they disregard all of that.
@@ -760,11 +763,12 @@ Mainly focused around working on the lore of the world behind the game. Concete 
 + changelog was previously mainly used to catalog drafts. it will no longer be used to contain literally everything in an update.
 
 # v1.2.3 - Continuous Lore updates
+As of 04/08, I've decided to no longer clog up the original changelog, meant for mechanical changes, with narrative ones. Whilst the two certainly have strong overlap, this will serve as the hosting ground for the progression of the Lore of the game as a whole. Specific design decisions tailored towards the game's design principles is left for a dedicated Design notes page.
+
 - No mechanical changes at large.
 - Still unknown name for the Black mage. If we make it our sole custom class, then we'll use the Nosiys placeholder, instead of making that our sorcerous origin.
 - nomad removed for now. See design changelog.
 
-As of 04/08, I've decided to no longer clog up the original changelog, meant for mechanical changes, with narrative ones. Whilst the two certainly have strong overlap, this will serve as the hosting ground for the progression of the Lore of the game as a whole. Specific design decisions tailored towards the game's design principles is left for a dedicated Design notes page.
 
 # 10/09 v1.3 - Mystic update v2 and major class changes overral.
 after a long break, returning to continue to work on the mystic, and psionics as a whole. Now, there are specific background and milestone feats avaliable specifically designed around psionics, and all classes have recieved a massive overhaul to make them more streamlined.
