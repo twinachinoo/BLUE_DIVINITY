@@ -797,3 +797,7 @@ after a long break, returning to continue to work on the mystic, and psionics as
 - For the mystic, this is their defining identity, being able to effectively, swap in and out class features, then upgrade them by turning experience into a fluid pool.
 
 - the three levelling slots idea is best reserved for the warlock or for medium summon slots.
+
+## v1.3.1 - Finalised class changes
+- Experience is used to mark the current character strength and milestone of the character.
+- A "level" is a direct resource, which can be used to purchase class
