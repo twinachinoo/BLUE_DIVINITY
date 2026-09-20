@@ -820,17 +820,17 @@ Cleared up a significant number of narrative chinks with the current class roste
 ### mages
 | Class | fantasy inspiration | real parallel |
 | -------- | -------- | -------- |
-|  Blue |  wizard, sorcerer  | physicist  |
-|  green  |  alchemist, apothecary  |  alchemist  |
-|  white  | certain cleric themes  |  -  |
-|  black  |  certain ranger / rogue themes  | -   |
-|  gold  |  oracle, seer  |  mathematician  |
+|  Blue / wizard |  wizard, sorcerer  | physicist  |
+|  green / apothecary |  alchemist, apothecary  |  alchemist  |
+|  white / lucent | certain cleric themes. novel class design.  |  -  |
+|  black / ? |  certain ranger / rogue themes. novel class design.  | -   |
+|  gold / oracle |  oracle, seer  |  mathematician  |
 
 ### non-mage, magical classes
 | Class | fantasy inspiration | real parallel |
 | -------- | -------- | -------- |
 |  Sophist |  bard, rogue   |  jester / bard / performer  |
-|  druid  |  more botanic and shamanic  |  too many  |
+|  druid  |  more botanic and shamanic than animalistic  |  too many  |
 |  theurge  |  priest, paladin  |  -   |
 |  warlock  |  warlock, occultist, dark mage  |  -  |
 |  artificer  |  -  |  engineer  |
@@ -839,8 +839,8 @@ Cleared up a significant number of narrative chinks with the current class roste
 | Class | fantasy inspiration | real parallel |
 | -------- | -------- | -------- |
 |  Monk |  wuxia-style ascetic cultivators   | monks    |
-|  mystic  |  psion, telekinetic  | -   |
-|  medium  |  necromancer*  |  lightkeepers, gravekeepers, etc  |
+|  mystic  |  psion, psychic  | -   |
+|  medium  |  necromancer is probably the closest. very novel class design. | spiritual mediums, fortune teller, lightkeepers, gravekeepers, etc  |
 
 ---
 Class defintions
@@ -861,7 +861,7 @@ Class defintions
 |  druid  |  primal  |  primira |T2 |
 |  theurge  |  divine  | luminata |T2 |
 |  warlock  | eldritch  | noctira |T2 |
-|  artificer  | creation  |  arcana  |T2 |
+|  artificer  | mechanical  |  arcana  |T2 |
 
 ### nonmagical classes
 | Class | keyword | power source |aspect access |
