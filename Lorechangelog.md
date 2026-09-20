@@ -759,19 +759,50 @@ trying to evict a starborn dwelled within is near impossible; they interlink and
 
 Though, a starborn dweller isn't inherently malicious, and often, has no intention to be. They may coexist peacefully depending on what specific variation of merge between the two occurs, or be stuck in an eternal loop of two people in one body.
 
-Base Traits
+# 20/09 - v1.2.4 continued
+There were a lot of drastic changes made to the mechanical identity of the classes, but more importantly, is the narrative side of them. We know the current mechanical laws have been put into place since the origin:
 
-Ability Score Increase: as per other races. \+2, \+1.
+- the term mystic has been used to refer to two entirely different classes, which are now distinct identites. It was a placeholder name for the modern black mage. So now, when you see "mystic" in modern versions, it is referring to the classical psion / telepath fantasy. the black mage is an entirely distinct identity now based on noctira magic.
+- no such things as traditional martials and casters. All classes have access to some form of fantastical power. 
+  In the current historic era of the world, a class's combat utility is nowhere near as important as it may be in a faux-medieval timeline. 
+  There are arcane turrets and flying airships in the game, being able to swing a sword a few times is not special. if a martial has some other unique identity that defines them, and they just happen to be good in combat (e.g, monk), they remain.
+- a class is defined by its power source. A theurge and a white mage both have light magic. the former is granted it by their deity. the latter extracts it from the cosmos itself.
+- The primordial power sources, arcana, primira, luminata, noctira, construct all magic in the world. respectively, each represents: force, life, light and dark. it remains a semi-hard magic system, with some clear mechanical and narrative limits and laws, but they are treated as foundational, physical rules of the universe, no different from electromagnetism or neutron degeneracy pressure.
+- the only power that can rival these primordials is the fifth, Sysyna/mystia (both were used before, but now mean the same thing), the power of soul. Ih the lore of the game, this is what grants sentience, identity, fate, and the capacity to access and utilise magic. Without soul, a creature is a husk of primira.
+- that is precisely what distinguishes a red mage (its legacy being the bard) from the mystic (a psion)
+- chronurgy style power still exists, but it is not considered magical. Similarly, spatial disortion and warping falls under arcana, in spells such as teleport.
+- if a class cannot justify its existence within our outside this construct, it is no longer a class. that is why identities like the traditional rogue / assassin with shadow powers is folded under the broader black mage, or the barbarian is considered a druid archetype, because they draw from the same primal natural magic. Similarly, this is why a "pure martial" like the fighter isn't considered a class. Superhuman physical power can be accessed through Chi - a derivative primira-based power, but that class already exists in the monk. and the monk can fill 98% of all weapon fantasies.
+- the artificer is an established archetype, and it does not mean the world is "futuristic" or "modern" in any sense - it manifests in steampunk-style mechanisms. it coexists alongside alchemy (the green mage) as the scientists of the realm. It is not considered a mage, as they do not need magic to make their mechanisms function. 
+- The green mage is an apothecary / alchemist style class, NOT a druid. druids are a distinct class that directly attune and channel power from nature, holding on to ancient rituals and traditions. Whilst the green amge can do that too, their approach is scientific and medical.
+- Finally, the medium is a distinct class that plugs the necromancer hole. a "necromancer" is not a distinct enough identity when a class entirely focused on the supernatural exists. The medium absorbs that identity, along with some other esoteric voodoo / summoning identities. 
+- the "warlock" equivalent - a seeker of bizaare, eldritch power and magic, is the violet mage, a distinct identity defined by their pursuit. the title "mage" is a real, in game debate on their identity, as they are the least academic of them. they oftentimes trading their body or soul in pacts too. This also prevents them from being a kitchen sink class for all things "dark and spooky". there is a distinct difference between the violet mage, the black mage, and the medium.
+- silver mage formally retired, as they were simply too similar to the blue mage, when arcana is the magic of force. HOWEVER,
+- there is growing room for if the "wizard" should be distinct class. Currently, the traditional, character fantasy of a wizard is folded under the blue mage. 
+  But a wizard could be a generalist practioner of all things magic, instead of being focused on a specific form or source of it. This would also dissolve the need for an independant sorcerer class. Thus, there wouldn't be a "force-magic mage" anymore, giving room for the silver mage to return.
+- the sorcerer is not a distinct class. after many back and forths, it is best reserved as a character origin, not something that replaces a class or subclass. 
+- the red mage is currently in contention too. Previously called the sophist, this assumes that all bardic-style characters need magic to function, which they don't. their power is in harmony and resonance, which is more of a mystia trait than anything, but the nature of their training and education makes them very close to a mage. they could be a non-mage, but magical class, regaining their original sophist title.
+Thusly, the current class lineup is:
 
-Age: starborn are timeless, ageless, and live for millennia. They appear as one age eternally, which seems to be an arbitrary, almost redundant choice.
+### mages
+- blue mage (force / spatial magic) - arcana
+- green mage (alchemical magic) - primira
+- white mage (light / order magic) - luminata
+- black mage (dark / negation magic) - noctira
+- red mage (harmonic magic) - ? mystia? should it even be a mage?
+- Questionable: violet mage or called warlock?
+- gold mage (time / planar magic) - unknown
+- questionable: independant wizard class?
 
-Alignment: often preferring neutral. Though, if there’s logical reason to act otherwise, their alignment and morals are fluid.
+### non-mage, magical classes
+- druid - primira
+- theurge - depends on deity
+- warlock - depends on power source
+- artificer: arcana
 
-Size: Medium. Their bodies mirror human or humanoid silhouettes.
-
-Speed: 30 feet.
-
-Languages: Through some mysterious reason, you are exceptionally fluent in Common. You may also naturally reconstruct in your mind, another language you frequently hear or see. You can Speak, write, and read in both languages.
-
-\--- (WIP)
-
+### nonmagical classes:
+- Monk - primira
+- mystic - mystia
+- medium - mystia
+- potential room for 1 more. but careful of bloat and redundancy.
+  
+overral, the number of confirmed classes comes down to 14/15 (w/ wizard). A sizeable and respectable amount. Without dedicated martials, allows for significant class diversity, narrative distinction, and lore. Also moves the game farther away from a combat simulator (which it is not.), and allows me to design more interesting features that focus on being a general, well rounded adventurer.

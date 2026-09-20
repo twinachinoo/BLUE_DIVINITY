@@ -344,20 +344,6 @@ trying to evict a starborn dwelled within is near impossible; they interlink and
 
 Though, a starborn dweller isn't inherently malicious, and often, has no intention to be. They may coexist peacefully depending on what specific variation of merge between the two occurs, or be stuck in an eternal loop of two people in one body.
 
-Base Traits
-
-Age: starborn are timeless, ageless, and live for millennia. They appear as one age eternally, which seems to be an arbitrary, almost redundant choice.
-
-Alignment: often preferring neutral. Though, if there’s logical reason to act otherwise, their alignment and morals are fluid.
-
-Size: Medium. Their bodies mirror human or humanoid silhouettes.
-
-Speed: 30 feet.
-
-Languages: Through some mysterious reason, you are exceptionally fluent in Common. You may also naturally reconstruct in your mind, another language you frequently hear or see. You can Speak, write, and read in both languages.
-
-\--- (WIP)
-
 more to come...
 
 

@@ -440,9 +440,7 @@ and also, interestingly, **sight based detection**. provided they are hidden or 
 
 #### beware! flowery prose ahead as i dump ideas. Clean changelogs will be written once this batch of mechanical changes is completed. 
 
-as of writing, I still think a lot of the friction here is still trying to retrofit what the standard expectation for an RPG should look like, trying to turn classes that aren't really meant to be "spellcasters" into them via the aspect system. and all of this was trying to fit everything into a game that really didn't have the features meant to align well with a sharper, original design philosophy. it was like trying to use archaic mathematics to describe modern quantum physics.
-
-let's start from the start. Throw out everything we've said about the classes so far. ignore the class features. ignore the martial vs caster duality. let's focus on building up the lore first.
+A huge update to the overral game. as of writing, I still think a lot of the friction here is still trying to retrofit what the standard expectation for an RPG should look like, trying to turn classes that aren't really meant to be "spellcasters" into them via the aspect system. and all of this was trying to fit everything into a game that really didn't have the features meant to align well with a sharper, original design philosophy. let's focus on building up the lore first.
 
 with all of that as retrospect, let's introduce the lore of the game itself. The core game revolves around a set of mages, which are the core classes for the game.
 
@@ -770,7 +768,7 @@ As of 04/08, I've decided to no longer clog up the original changelog, meant for
 - nomad removed for now. See design changelog.
 
 
-# 10/09 v1.3 - Mystic update v2 and major class changes overral.
+# 10/09 v1.2.4 - Mystic update v2 and major class changes overral - refer to the mystic ~~file~~
 after a long break, returning to continue to work on the mystic, and psionics as a whole. Now, there are specific background and milestone feats avaliable specifically designed around psionics, and all classes have recieved a massive overhaul to make them more streamlined.
 
 | Character level | Experience |Core class |  Avaliable philosophies  | philosophy slots | 
@@ -802,6 +800,6 @@ after a long break, returning to continue to work on the mystic, and psionics as
 
 - the three levelling slots idea is best reserved for the warlock or for medium summon slots.
 
-## v1.3.1 - Finalised class changes
+## Finalised class changes
 - Experience is used to mark the current character strength and milestone of the character.
 - A "level" is a direct resource, which can be used to purchase class
