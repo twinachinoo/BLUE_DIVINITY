@@ -846,27 +846,27 @@ Cleared up a significant number of narrative chinks with the current class roste
 Class defintions
 
 ### mages
-| Class | Keyword | power source |
-| -------- | -------- | -------- |
-|  Blue |  force | arcana  |
-|  green  | life |  primira  |
-|  white  | radiant  | luminata  |
-|  black  |  dark  | noctira |
-|  gold  | temporal  | ?  |
+| Class | Keyword | power source | aspect access |
+| -------- | -------- | -------- |-------- |
+|  Blue |  force | arcana  | T3 |
+|  green  | life |  primira  | T3 |
+|  white  | radiant  | luminata  | T3 |
+|  black  |  dark  | noctira | T3 |
+|  gold  | temporal  | ?  | T3 |
 
 ### non-mage, magical classes
-| Class | keyword | power source |
-| -------- | -------- | -------- |
-|  Sophist |  resonance  | ? |
-|  druid  |  primal  |  primira |
-|  theurge  |  divine  | luminata |
-|  warlock  | eldritch  | noctira |
-|  artificer  | creation  |  arcana  |
+| Class | keyword | power source |aspect access |
+| -------- | -------- | -------- |-------- |
+|  Sophist |  resonance  | ? | T2 |
+|  druid  |  primal  |  primira |T2 |
+|  theurge  |  divine  | luminata |T2 |
+|  warlock  | eldritch  | noctira |T2 |
+|  artificer  | creation  |  arcana  |T2 |
 
 ### nonmagical classes
-| Class | keyword | power source |
-| -------- | -------- | -------- |
-|  Monk | body  | ascetic  |
-|  mystic  | mind | psionic   |
-|  medium  |  soul |  ? |
+| Class | keyword | power source |aspect access |
+| -------- | -------- | -------- |-------- |
+|  Monk | body  | ascetic  |T1 |
+|  mystic  | mind | psionic   |T2 |
+|  medium  |  soul |  ? |T2 |
 

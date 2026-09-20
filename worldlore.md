@@ -346,7 +346,7 @@ Though, a starborn dweller isn't inherently malicious, and often, has no intenti
 
 more to come...
 
-# classes
+# classes (WIP)
 What defines a class in Blue divinity? Their power, and its source. A class is a class because of what it can channel, harness, and comprehend.  In blue divinity, choosing a class is for more than an occupation; When a character begins their journey through the levels of a class, they are embarking on a journey of identity and integrity.
 
 In total, there are 15 classes in the game, which are the following:
