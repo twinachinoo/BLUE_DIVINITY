@@ -304,7 +304,7 @@ Starborns and Seek alike are capable of Psionics, which does not necessarily rep
 
 For others, however, they instead come innately equipped with celestial magic, which they can cast simply with their essence. Oftentimes, this comes in the form of radiant light, which can be morphed and shaped to create a variety of different effects.
 
-# **The seek**
+## **The seek**
 
 The seek are, in many regards, nearly identical to their starborn cousins. The most telling sign is their eyes, which are often solid, stygian blacks. They are sometimes nicknamed as "night watchers" for this reason.
 
@@ -346,5 +346,185 @@ Though, a starborn dweller isn't inherently malicious, and often, has no intenti
 
 more to come...
 
+# classes
+What defines a class in Blue divinity? Their power, and its source. A class is a class because of what it can channel, harness, and comprehend.  In blue divinity, choosing a class is for more than an occupation; When a character begins their journey through the levels of a class, they are embarking on a journey of identity and integrity.
+
+In total, there are 15 classes in the game, which are the following:
+
+### mages
+- blue mage (force / spatial magic) - arcana
+- green mage (alchemical magic) - primira
+- white mage (light / order magic) - luminata
+- black mage (dark / negation magic) - noctira
+- red mage (harmonic magic) - ? mystia? should it even be a mage?
+- Questionable: violet mage or called warlock?
+- gold mage (time / planar magic) - unknown
+- questionable: independant wizard class?
+
+### non-mage, magical classes
+- druid - primira
+- theurge - depends on deity
+- warlock - depends on power source
+- artificer: arcana
+
+### nonmagical classes:
+- Monk - primira
+- mystic - mystia
+- medium - mystia
+
+# imported from homebrewery
+direct import. Lore files of all types, magic types, and damage types. WIP editing needed.
+
+Blue divinity is a modern translation of the runic symbols *Solir Simura*, which are the first words of the first sentence of the oldest remaining records of Renoh, the destroying angel. His passing across the planes was a primordial cataclysm whose traces can be found even today. And so, the term "blue divinity" became adopted by scholars describe a rough area of the universe that he came into contact with and had a measurable influence upon - including their home planet.
+
+The terms Solir and Simura directly translate to "star" and "cold blue" respectively, though the term for star used here has been interpreted as any sort of celestial object, being, or deity - some incomphrensible power that rested above in the night sky. It is assumed that writers of that time had yet to recognise the difference between these three.
+
+## what genre is BD set in?
+Blue divinity finds itself most similar to the new world fantasy subgenre, and has influences from both high and dark fantasy. The gods are distant, but not vanquished. magic is common, but costly. Evil does not rise from a lower plane but instead from the depths of souls tained with hatred. The world has its own soverign, albeit sometimes unpredictable laws of magic that exist alongside an evolving world.
+ It is important to recognise that Blue divinity is not one set world in one moment in time, but a gradient of history and civiliations. 
 
 
+## what time period is BD set in?
+Blue divinity's history varies across the multiple different important time frames of its own world history; The continent of Iyrn, where the central setting of blue divinity is set, has undergone five main relevant historical time periods: archaic, warring states, dynastic, dark ages, and currently, a rennaissance, over the course of thousands of years. 
+Currently, the world is experiencing a revivial of the arts, of ancient magic, but also at the same time, a strive towards innovation in artifice, alchemy, and arcane magic. 
+
+
+## what is magic like?
+Throughout the history of BD, magic has been both a central source of power and a direction for the advancement of civilisation. It does not replace, but often evolves with and is innovated upon by science and technology that find more practical and efficient methods to harness it when it can. Though we can understand the *Hows* behind the workings of magic: how arcana evokes an instaneous combustion reaction and surge of heat, how primira heals wounds by perfect organic compound replication, even the brightest of scholars are stumped by the *why*. 
+
+The discovery and consolidation of Arcana - and the recent breakthrough that allowed manipulation of it via magic serves a prime example of how magic will come to evolve with those who wield it.
+
+# this book...
+is intended to serve as a player's handbook of sorts, but since BD itself is a game aimed at veteran game designers - it will be quite technical and presumes you have, at minimum, a moderate understanding of TTRPG, RPG, and general game mechanics, alongside with familiarity of fantasy and historical literature.
+
+Evidently, Bd draws heavy inspiration from classic TTRPGs like D&D and PF. This is primarily the case as it continues to use established gaming paradigms like the D20, the fantasy classes, and others
+
+lorewise, the game is set in a fundamnentally different landscape. It's important to recognise that BD, from its inception, was meant to be a story first, game second - and the game should allow for smooth play throughout experiencing the story that the table crafts. 
+\column
+You may still find the particular style of campaign writing to still influence the way in which this book will be written. keep in mind that though no longer bound to the limits of literature, this book will be best enjoyed when you read through it like the lore of a collection of campaigns.
+
+A single book cannot possibly cover all the facets of a world so deeply entrenched in magic - from its economics, politics, geography, etc. In fact, not even people within the world itself fully understand it, and are still piecing together fragments of their ancient and lost history. 
+
+
+## Power sources
+
+The arcane academia of the world have found a straightforward, if a little crude, method of roughly categorising the prominent forces of power within the world. At first, they aimed to categorise the complex web of magical spells, but soon realised that it was just one part of a much larger structure of power, magical or not. 
+
+Standard magic is categorised as the *4 sovereign power sources* - arcana, primira, luminata, and noctira, which each symbolise and represent force, life, light, and dark. Whilst not able to cover every nook and cranny of magic and the like, seems to service the practical needs of the average practictioner enough to navigate their chosen class.
+
+
+## ambient magic
+
+### arcana
+Arcana is the raw magic that permeates the world, a strange, unquantifiable source of infinite and real power. It is often drawn from "the weave" - a strange substrate of ambient mana whose source, creator, and destiny all unknown. For as long as intelligent creatures have inhabited this world, they say has always been there. 
+Arcana is a difficult power source to define, yet inifinitely malleable; it is often described as the magic of force - being able to impress energy and matter onto the world through magical means. It is most often found in spells - in which it manifests as blossoming fireballs, cascading ice storms, destructive disintegrates, or the miracle of flight.
+
+
+##### damage types:
+- prismatic
+- elemental
+- pulse
+
+### Primira
+When the material plane was created, Primira accompanies the primordial light and dark to shape life in all of its wonderous forms to populate the plane. It is the power of pure lifeforce, infinitely adaptable and able to meld with, create, or decay any organic matter. it can be of course, drawn from said organic matter, or from the ambient magic of great enchanted natural realms.
+
+Primira can be infused to heal, corrupted to harm, or distilled as liquid from sacred blood itself. It can be found throughout spells, diciplines, and many more, in which it manifests as instaneous spike growth, chaotic elemental blooms, cleansing greater restoration, or necrotic blight.
+
+
+##### damage types:
+- elemental
+- chemical
+- rose
+- toxic
+- necrotic
+
+
+### Luminata
+Luminata is the primordial light that suffuses the realms and the cosmos itself; In it's purest form, it is a force of creation that manifests starlight and a force of destruction that sterilizes life. Because of it's inherently dangerous and foreign nature, it is often drawn instead from or gifted the Divine - gods who have grasped and harnessed it to wield as magical power. However, like it's opposite, noctira, Luminata can also be offered in more esoteric means by hidden patrons.
+
+In its divine form, Luminata can cleanse malaise and necromancy and restore purity and sancitity from a hallow spell. However, whether from cosmic interference or specialised use - it can also manifest as bleak radiance that cripples even the most perfect of miracle matter in a radiation field.
+
+##### damage types:
+- luminant
+- radiant
+
+### Noctira
+Against Primordial light is primordial dark - a force that both opposes and accompanies it's antithesis. Like luminata, Primordial dark is not just an absence of light, but a real force of creation that manifests cosmic voids and a force of destruction that eradicates existential right. Divinity often doesn't wish to offer this power to mortals, so it is often a bargained, pacted, or stolen from great aberrations or patrons.
+
+Noctira doesn't distinguish between a harnessed, magical "divine" form or not. Though not inherently dangeorus, it very much can be harnessed in methods to be so, and can be used to wipe magic, memory, and matter alike permenantly, whether through its own pure dark energy or through the havoc of antimatter. However, it has been harnessed for beneficial purposes in spells like silence - where it's negatation stifles sound.
+
+
+##### damage types:
+- negative
+- havoc
+
+### Forces of chi
+Out side the grid of the four power sources, are the two forces. These are strange and ancient powers that don't fit neatly within the world's understanding of magic, commonly harnessed and expressed through Chi. these forces give integrity, identity, and allows a mundane clump of lifeforce to act on its own volition. 
+
+These can allow you to catalyse innate power, project it, or much, much more. These are split distinctly into *mystia* (mind) and *sysyna* (soul). Mystia and sysyna is not limited to just living beings. Scholars still debate the true origin of conciousness and the evolutionary use of a soul, as we see both present in ancient gods.
+
+
+##### damage types:
+- Dream
+- anomaly
+- necrotic
+
+#### subtype: Sakhana
+The origin of the runic term *sakhana* is as mysterious than anasea. The depreciated kh consonant suggest it might have been derived from religious texts of an ancient time. Sakhana is a power like no other. As currently understood, it manifests as *havoc* damage - in which upon contact, it creates perfect antiparticle pairs to disintegrate any and all information, including light, causing it to appear unnaturally dark.
+
+Havoc damage, like radiant, is another of the few methods of countering miracle matter. Havoc tends to be more disruptive and efficient then radiant, but it also acts more violently and actively, causing its effective range of application - both literal distance and number of options - to be limited.
+
+# healing and damage
+
+The health and constitution of adventurers are constantly under threat from a myriad of harmful sources. As long as there is treasure to seek, there's risks to take.
+
+
+### use of damage
+Damage is not just used to represent harm taken by a character, it's the way the game represents energy, which is intended to affect another target. This includes everything from using acid to melt armor, physical to know down a door, to havoc erasing a person from the material plane.
+
+##### Damage types
+The damage sources of Blue Divinity are split into four main categories: Elemental, physical, organic, and pure magic. Damage types have no rules of their own, but the methods of dealing with and dealing them are found within other rules.
+
+{{wide
+
+| Elemental | description |examples (spell, event, item) |
+|:---------------|:--:|:--| 
+| fire      | Temperature. Crude, but effective. Fire is the simplest and most common damage type. | fireball, dragon's breath, flaming torch|
+| Cold            | Temperature. Bitter cold shreds away skin and leaves alike, and leaves fingers in frostbite. | Cone of cold, tundra climate, ice knife|
+| Shock          |  Electrical energy. A sudden flash of lightning that splits a tree and spreads through platemail. | chain lighting, lightning strike, shock gauntlets |
+| Acid          | Chemical. Acid eats away at almost anything with a sinister sizzle and a sickly chemical color. | caustic killer, acid rain, alchemical potions |
+| **Physical**          | **description** | |
+| blunt      | Bludgeoning force. From a mace or cannonball, blunt damage ignores precision in favour of overwhelming force. | move earth, boulders, mace |
+| sharp       | focused force. From a musket ball or a rapier, sharp damage tears and pierces through. | conjure volley, dart trap, dagger |
+| pulse          | Concussive force. Pulse describes everything from sonic  waves to ripples in gravity. | thunderwave, explosion, magic flute|
+| **organic**      | **description** | |
+| Rose      | Lifeforce flux. Rose is the color of blood from failing organs or the drain from a vampire's bite. | inflict wounds, Dryad's curse, potion of healing |
+| Dream            | Psychic pain. Dream is pain the mind that it believes as real, and harms itself in that process. |dream eater, victim of scrying, mind shielding circlet  |
+| Toxic          | harmful substances. Toxic describes posions and infections that actively break down the body's functions. |poison spray, severe illness, vial of poison |
+| necrotic            | death. Pure decay and rot, from the hands of wraiths to the spell of a necromancer. | chill touch, blighted crops, Necronomicon |
+| Chemical            | death. Pure decay and rot, from the hands of wraiths to the spell of a necromancer. | chill touch, blighted crops, Necronomicon |
+|  **pure magic**       |  **description** | |
+| Luminant | Concentrated light. Often a gift from the divine, Luminant melts away the impure. |Guiding bolt, Angel's presence, sacrifical knife |
+| Negative | Absorption. Negative damage drains energy from all, leaving only a shadow and its hollow husk. | Darkshock, Aberration's hunger, demiplane key |
+| prismatic | Raw arcane force. prismatic is the purest form of arcane energy, and contains all elemental and pure magic energies within. | magic missile, wild magic zone, wand of wonders |
+|  **others**       |  **description** | |
+| anomaly |  Damage that cannot be quantified within other reasonable bounds. temporal, soul,  and other metrics fall within here. |Temporal storm, Celestial winds, talisman of binding |
+| radiant | radiation. overcharged and energised magical particles that shred through all mater and force alike. often not a divine gift. |sickening radiance, celestial shower, items rarely exist. |
+| havoc | antimatter. Havoc is the vicious void, who devours and ravages. Havoc will always deal damage. | destructive wave, Lunar syzygy. items rarely exist.|
+
+}}
+
+## arcana interactions
+
+arcana is the measurement of not energy, but force. arcana governs the fundamental forces that tug at the fabric of spacetime. From magnetism to gravity, arcana handles the powers of forces across the cosmos. 
+
+due to its fundamental nature, it is capable of acting alone, or interacting with other power sources to mold and manipulate other forms of energy.
+
+#### subtype: Miracula
+*Miracula* is a term coined by multiple arcane academia, and is the most proud innovation of past mages. Miracula is arcana, in its purest form, where a perfect lattice structure is formed. The weave is stablilised into a tangible, material form, yet preserves its magical density. 
+It is nigh indestructable by physical force or energy, expressed in spells that form temporary globes of invunerability, walls of force, and many more new and radical inventions.  The material of which these spells manifest is known as *miracle matter* - perhaps the greatest and yet most misunderstood innovation of magic.
+
+\column
+#### subtype: Anasea
+*anasea*, unlike miracula, is a runic term, not a modern one. in translation, it refers to the power of the primordial star. When Lumimnata is suffused by Arcana, we see the primordial light transform into something more pure - but also significantly more dangerous. Anasea manifests as *radiant* damage, in which this concentrated form of energy can beam across the cosmos at speeds faster than we can comprehend. 
+ Radiant damage is one of the few methods of dismantling the coherence of miracle matter, as it scours and evicerates nearly anything without discrimination. Some say this was the first original power of divinity, before it was filtered down for their followers.

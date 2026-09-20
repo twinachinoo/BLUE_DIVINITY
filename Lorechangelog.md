@@ -369,24 +369,6 @@ But few of the few, of the few, will think, think deeply, not just feel their em
 
 and once a starborn crosses the threshold, into what's considered anomalous - there's often no way back. No way to go but forward, deeper into the dark ocean of unpredictable, yet endlessly deep emotion.
 
-#### Base Traits
-
-Age: starborn are timeless, ageless, and live for millennia. They appear as one age eternally, which seems to be completely arbitrary.
-
-Alignment: often preferring neutral. Though, if there’s logical reason to act otherwise, their alignment and morals are fluid.
-
-Size: Medium. Their bodies mirror human silhouettes, but with faded pigmentation. The specific appearance typically depends on the specific starborn lineage.
-
-Languages: Through some mysterious reason, you are exceptionally fluent in Human. You may also naturally reconstruct in your mind, another language you frequently hear or see. You can Speak, write, and read in both languages.
-
-Id impossibility: Starborn are not driven by primal urges. You gain advantage on saving throws against the frightened and mad condition.
-
-Night star: starborn do not require sleep, and cannot be put to sleep by magic. Your sense score remains intact during rest periods.
-
-Astral archive: Your mind always finds the most efficient schema. Over the course of a rest, select one lore-based skill to gain proficiency in. You retain this proficiency until your next rest.
-
-Aethereal origin: you can manifest wisps of your own radiance and hurl them like falling stars. (WIP)
-
 #### Subrace: Voidstar
 
 Voidstars are enigmatic starborn. their light is dim and their skin cold to touch, yet they remain softly bioluminescent nonetheless, like the last gasp of a dying star. They remain perfectly rational and logical, yet carry a cold, cynical edge to their calculations.
@@ -759,7 +741,7 @@ trying to evict a starborn dwelled within is near impossible; they interlink and
 
 Though, a starborn dweller isn't inherently malicious, and often, has no intention to be. They may coexist peacefully depending on what specific variation of merge between the two occurs, or be stuck in an eternal loop of two people in one body.
 
-# 20/09 - v1.2.4 continued
+# 20/09 - v1.2.5 
 There were a lot of drastic changes made to the mechanical identity of the classes, but more importantly, is the narrative side of them. We know the current mechanical laws have been put into place since the origin:
 
 - the term mystic has been used to refer to two entirely different classes, which are now distinct identites. It was a placeholder name for the modern black mage. So now, when you see "mystic" in modern versions, it is referring to the classical psion / telepath fantasy. the black mage is an entirely distinct identity now based on noctira magic.
@@ -791,7 +773,7 @@ Thusly, the current class lineup is:
 - red mage (harmonic magic) - ? mystia? should it even be a mage?
 - Questionable: violet mage or called warlock?
 - gold mage (time / planar magic) - unknown
-- questionable: independant wizard class?
+- questionable: independant wizard class? becomes blue mage?
 
 ### non-mage, magical classes
 - druid - primira
@@ -806,3 +788,26 @@ Thusly, the current class lineup is:
 - potential room for 1 more. but careful of bloat and redundancy.
   
 overral, the number of confirmed classes comes down to 14/15 (w/ wizard). A sizeable and respectable amount. Without dedicated martials, allows for significant class diversity, narrative distinction, and lore. Also moves the game farther away from a combat simulator (which it is not.), and allows me to design more interesting features that focus on being a general, well rounded adventurer.
+
+The warlock also has significant lore implications because of its mechanical design. if we choose to move it farther from a standard mage, then we don't need to give it a specific power source, like the theurge. This opens up volumnes of potential class design and narrative weight. Of course, the "warlock" in our world is different from a standard d20-style warlock. Here, warlocks are focused specifically on the nature of forbidden magic / power itself, not just pacts. pacts are a great way to get some magic, but not the only. 
+
+it also steers them away from being purely mental-focused class, as they can sacrifice or offer their body or soul as well in exchance. Without a "charisma" trait in the game, class design is forced to be succinct and sensible. The **core** trait will be discussed as part of this, but because it's not an upgreadeable trait, it can't be the only thing the warlock relies on.  
+
+### further design decisions
+Dnd's 9 spell levels is not nearly enough for the gap between each level. I had to pad it out to 11 tiers instead for the aspect system. because of this, it doesn't distribute evenly into a standard level breakpoint. We need to figure something out for that.
+
+classes are not split into martials - half casters - casters, they're split into T3, T2, and T1. that respectively shows what tier of aspects they begin with, and it also decides the height of their power. in the 15 level system, T3 users can reach the heights of Tier 11 aspects. T2 users can reach the still very respectable Tier 10 aspects, and T1 users can access at best, tier 9 aspects.
+
+This design philosophy was simple. Everyone gains access to scaling, freeform ability selection, instead of rigid skill trees. The distinction is how strong they are. naturally, the classes balance this out with class abilities and power reserved elsewhere. The classes can be roughly split into:
+
+T3: Gold (absorbed silver into gold to make it the premier "mathematician" mage), white, mystic. The height of mental power and comprehension.
+
+T2: most classes. Wizard, druid, theurge, red mage, black mage, green mage
+
+T1: not as aspect reliant. Artificer (constructs), monk, medium, warlock (rituals & dark fragments).
+
+it's a very simple spread. most classes begin at roughly the same baseline.
+
+for classes like the gold or white mage, with access to innately more powerful abilities (think time control and light construction), or the mystic - whose class is defined by their peerless mind. They compensate by having lighter class abilties, and rely heavily on their strong aspects.
+
+T1 classes don't have less features - they have it elsewhere. the artificer is the most obvious - their class has an entire second resource pool and able to create all sorts of mechanical constructs. The warlock is similar, having a pool of dark fragments (similar to dnd's invocations), and at-will rituals. The monk, as the dedicated "pure martial" class, just has a rock solid class progression. for them, the aspect pool just helps me bundle in a bunch of nicher features (tongue of sun and moon, slow fall, or elemental disciplines) instead of overloading their already bloated core class.

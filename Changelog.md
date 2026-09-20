@@ -803,3 +803,70 @@ after a long break, returning to continue to work on the mystic, and psionics as
 ## Finalised class changes
 - Experience is used to mark the current character strength and milestone of the character.
 - A "level" is a direct resource, which can be used to purchase class
+
+# v1.2.5 20/05 - class update
+Cleared up a significant number of narrative chinks with the current class roster, that has been progressing assymetrically.
+
+### class tiers
+- classes are tiered not by strength, but by access to aspects and powers:
+- **Tier 3**: access to tier 3 aspects from level 1, scale all the way. Gold mage, white mage, mystic, black mage, blue mage
+- **Tier 2**: all other classes. 
+- **Tier 1**: not as aspect reliant, and have class feature pools elsewhere: Monk and potentially the druid (use an internal caster / martial split at level 0)
+
+- Each class recieves a real-world, historic parallel to ground it's identity, as well as an existing fantasy class trope as inspiration. If they're mainly a fantasy class without a good historic parallel, then they don't require one. similarly, if the class is similar enough to an existing fantasy class trope, then they don't need an inspiration.
+- each class has a keyword for their power.
+
+
+### mages
+| Class | fantasy inspiration | real parallel |
+| -------- | -------- | -------- |
+|  Blue |  wizard, sorcerer  | physicist  |
+|  green  |  alchemist, apothecary  |  alchemist  |
+|  white  | certain cleric themes  |  -  |
+|  black  |  certain ranger / rogue themes  | -   |
+|  gold  |  oracle, seer  |  mathematician  |
+
+### non-mage, magical classes
+| Class | fantasy inspiration | real parallel |
+| -------- | -------- | -------- |
+|  Sophist |  bard, rogue   |  jester / bard / performer  |
+|  druid  |  more botanic and shamanic  |  too many  |
+|  theurge  |  priest, paladin  |  -   |
+|  warlock  |  warlock, occultist, dark mage  |  -  |
+|  artificer  |  -  |  engineer  |
+
+### nonmagical classes
+| Class | fantasy inspiration | real parallel |
+| -------- | -------- | -------- |
+|  Monk |  wuxia-style ascetic cultivators   | monks    |
+|  mystic  |  psion, telekinetic  | -   |
+|  medium  |  necromancer*  |  lightkeepers, gravekeepers, etc  |
+
+---
+Class defintions
+
+### mages
+| Class | Keyword | power source |
+| -------- | -------- | -------- |
+|  Blue |  force | arcana  |
+|  green  | life |  primira  |
+|  white  | radiant  | luminata  |
+|  black  |  dark  | noctira |
+|  gold  | temporal  | ?  |
+
+### non-mage, magical classes
+| Class | keyword | power source |
+| -------- | -------- | -------- |
+|  Sophist |  resonance  | ? |
+|  druid  |  primal  |  primira |
+|  theurge  |  divine  | luminata |
+|  warlock  | eldritch  | noctira |
+|  artificer  | creation  |  arcana  |
+
+### nonmagical classes
+| Class | keyword | power source |
+| -------- | -------- | -------- |
+|  Monk | body  | ascetic  |
+|  mystic  | mind | psionic   |
+|  medium  |  soul |  ? |
+
