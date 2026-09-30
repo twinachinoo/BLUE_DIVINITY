@@ -523,17 +523,6 @@ There are ruins of a bygone civilization. Ruins of great stone constructions and
 
 Amongst those in the know, it's grown infamous because of it. Yet the city never lost the allure of its intel; but rather, it acts as a guise, a tourist destination, that filters out who's here just for gossip, and who's got something worth exchanging. Currently, the City is mainly handled by House Atani, who established their own manor, though the other houses sliced up the pie as they wished.
 
-### **Latis city map**
-
-Districts map
-
-# 
-
-### **Latis city map**
-
-City highlights
-
-## 
 
 ### **Latis city landmarks**
 
@@ -811,3 +800,16 @@ it's a very simple spread. most classes begin at roughly the same baseline.
 for classes like the gold or white mage, with access to innately more powerful abilities (think time control and light construction), or the mystic - whose class is defined by their peerless mind. They compensate by having lighter class abilties, and rely heavily on their strong aspects.
 
 T1 classes don't have less features - they have it elsewhere. the artificer is the most obvious - their class has an entire second resource pool and able to create all sorts of mechanical constructs. The warlock is similar, having a pool of dark fragments (similar to dnd's invocations), and at-will rituals. The monk, as the dedicated "pure martial" class, just has a rock solid class progression. for them, the aspect pool just helps me bundle in a bunch of nicher features (tongue of sun and moon, slow fall, or elemental disciplines) instead of overloading their already bloated core class.
+
+# 30/09 - v1.2.6
+Pausing the development of game mechanics for a moment. The lore is rich enough to begin constructing a world for writing. We want to add the following as dedicated chapters in our document:
+
+- magic and power sources
+- Classes
+- Locations
+- Noble houses (renames necessary?)
+- Circle of mages
+- unique races (currently, only the starborn)
+- historic ages
+
+The above already has comprehensive work, we just need to package them onto the markdown document. important planar lore needs a home too.

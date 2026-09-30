@@ -845,23 +845,22 @@ Cleared up a significant number of narrative chinks with the current class roste
 ---
 Class defintions
 
-### mages
-| Class | Keyword | power source | aspect access |
-| -------- | -------- | -------- |-------- |
-|  Blue |  force | arcana  | T3 |
-|  green  | life |  primira  | T3 |
-|  white  | radiant  | luminata  | T3 |
-|  black  |  dark  | noctira | T3 |
-|  gold  | temporal  | ?  | T3 |
+### core mages
+| Class | alternate name | Keyword | power source | aspect access |
+| -------- | -------- | -------- | -------- |-------- |
+| Blue |  Wizard  | force | arcana  | T3 |
+|  white  | Lucent  | light  | luminata  | T3 |
+|  gold  | Oracle  |temporal  | ?  | T3 |
+| red  | Sophist |  resonance  | ? | T2 |
+|  violet  | warlock | eldritch  | noctira |T2 |
+|   green | apothecary | essence |  primira  | T2 |
 
 ### non-mage, magical classes
 | Class | keyword | power source |aspect access |
 | -------- | -------- | -------- |-------- |
-|  Sophist |  resonance  | ? | T2 |
 |  druid  |  primal  |  primira |T2 |
 |  theurge  |  divine  | luminata |T2 |
-|  warlock  | eldritch  | noctira |T2 |
-|  artificer  | mechanical  |  arcana  |T2 |
+|  artificer  | mechanical  |  arcana  |T1 |
 
 ### nonmagical classes
 | Class | keyword | power source |aspect access |
@@ -870,3 +869,48 @@ Class defintions
 |  mystic  | mind | psionic   |T2 |
 |  medium  |  soul |  ? |T2 |
 
+# v1.2.6 - class restructuring continues
+- argument for if the current black mage should be dissolved as an identity. The current class roster lacks a scout type class, and I do not feel like adding the rogue / ranger back in their D&D forms, or using those terms with the amount of narrative history they carry.
+- half of their scholarly identity would go towrads the light mage, making it a more compelling class of light and dark alike. The other half would go towards making the warlock the definite noctira class.
+- Thusly, the original, psionic mystic, remains the mystic
+- ...importantly, some elements of the black mage are now absorbed into a brand new class, the gnostic, which takes the place of the medium, turning it into a noctira class as well.
+
+| Class | keyword | power source |aspect access |
+| -------- | -------- | -------- |-------- |
+|  gnostic | soul  | noctira  |T2 |
+
+
+- in addition, the green mage has been formally denoted as the apothecary.
+- I'm happy with the monk and artificer at T1. I would generally try not to introduce any more t1 classes. If needed, the artificer can become a t2 without much trouble.
+
+### finalised changes
+- black mage in its current form removed. 
+- the Term mystic exclusively refers to the psionic class.
+- the term medium is retired for class ID 12, the previously soul-focused, necromantic class. This class is now titled the gnostic, representing secreitive spiritual and mystical knowledge.
+- The gnostic now has a mage color too, black, though like the warlock, it's to be argued if they're even a mage. this has real lore implications.
+
+In total, 
+- assigned IDs.
+- With this, I'm happy to start creating the full Class table, which goes as such
+
+| Class | keyword | power source |aspect access | main role |  mage color | Class ID | 
+| -------- | -------- | -------- |-------- |-------- |-------- |------- |
+| Wizard |  force | arcana  | T3 | all | blue | 1
+|  Lucent  | light/dark  | luminata  | T3 | DPS | white | 2
+|  Oracle  | primordial  | ?  | T3 | support | gold| 3
+|  apothecary | essence |  primira  | T2 | utility | green| 4
+| Sophist  |  resonance  | soul | T2 | support | red | 5
+|  warlock  |eldritch  | noctira |T2 | DPS | violet| 6
+|  druid |   primal  |  primira |T2 | utility |  -  | 7
+|  Theurge| divine  | luminata |T2 | support | -   |  8
+|  Monk |  body  | ascetic | T1 | DPS | -  | 9
+|  Mystic |  mind | psionic | T2  | ? | -   | 10
+|  artificer|  mechanical  |  arcana  |T1 | utility |-   |  11 
+|  gnostic | soul  | noctira | T2 | utility | - |  12
+
+# v1.2.6.1 - damage types update
+Noticing a bit too much overlap in the damage type department. The original intent was to cover a broader range of magical power sources, but that ended up having the inverse effect of creating overly-niche types.
+- necrotic was removed. It is now considered negative or toxic damage.
+- The question of do we need both luminant and radiant comes to mind. 
+- Prismatic may be renamed to iridescent. Luminant would thusly be folded under the same damage type of "rainbow energy".
+- However, there is room to say that luminant can be specifically an divine source, 
