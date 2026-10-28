@@ -813,3 +813,33 @@ Pausing the development of game mechanics for a moment. The lore is rich enough 
 - historic ages
 
 The above already has comprehensive work, we just need to package them onto the markdown document. important planar lore needs a home too.
+
+# 27/10 - v1.2.7 - class updates
+- IMPORTANT: black mage has been revived.
+
+There have been many revisions of the list of classes - primarily as this project transitions from trying to develop a TTRPG into realising it's better suited as a worldbuilding project for a story-focused future (campaigns, novels, etc). For that reason, the lore has made a few things clear: martials are not special. However, our worldbuilding has given more reasons than "magic". The evolution of technology, the complex web of magic (strong and weak), and the institutions in place. being able to swing a sword a few times is a career, not a class. 
+
+Thusly, the remaining classes are split into the mages (with explicit hold over magic), and the others. Not much has changed, these are colloquial oversimplifications, but there is merit in these descriptions. 
+
+- the blue mage. The Wizard. a scholar of all things magic. Their spell list is expansive, their studies similar. They are versatile, but ultimately, draw from arcana - the magic of force
+- the white mage. The Lucent, the white mage specialises in the magic of light. Light and dark are not just photons in this realm, light is the magic of creation, of order, restoration, reflection, construction, and purity. a unique class, you can think of these as medieval physicsts.
+- the Green mage. The alchemist, the green mage takes life magic and pushes it further. These are alchemists, apothecaries, creating new life and repairing old alike.
+- the black mage. originally also called the mystic, it has an undefined name for now. A budding archetype spawned from academia, noctira magic - seen as taboo and violent, granted by eldritch patrons and utilised by creatures in the night, "shadow magic" was to be finally understood and utilised. Dark opposes light - chaos, disorder, destruction, illusion, simulation, erasure - but in doing so, is an incredibly powerful tool to wield and understand. 
+- The gold Mage. The Oracle, the gold mage undertakes the complex magic of space and time. These mages are vastly detached from the rest, pursuing a form of magic that can barely count as magic, not categorised under the other umbrellas. They Look for patterns, balance, symmetries.
+
+The terms violet, red, and silver mage are terms used by the mages to refer to existing classes. This is an official, in-lore definition. They are:
+- The red mage. the Sophist. Formerly the bard, sophists are not just musicians, they hold the magic of resonance - a kind of in-between magic that can tug at existing ones. they have some accidental access to the ability to resonate psionically too - making them quite the charmers.
+- the Violet mage. The warlock, a delver into secrets ancient and forbidden. they have no defined power source. their magic is whatever they dare to seek and brave to use. They still have access to an older, more volitaile form of noctira.
+- the silver mage. the Mystic, the elusive master of psionics, a form of power that borders what counts as magic or not (it isn't, by technicality, but it acts like magic). Mystics are a class that defines the user, to unlock that level of power is to create a mind that cares less and less for trivial mortal affairs.
+
+Finally, you have classes that do not belong to this matrix, and either utilise magic that is poorly classified, undefined, or do not utilise magic.
+- the theurge. their power is the divine. Rarely are deities physical people you can interact with, they are idealisations, concepts, abstractions of a domain. yes,  a mortal can ascend to bear witness to their domain, and they can reincarnate, but not necessarily dominate as their power. For that reason, a theurge's power truly comes from the power of belief as much as it does the world itself, as deities often govern abstract ideals (love, peace, war, twilight, life, order, knowledge), rather than greek-style "god of lightning".
+- speaking of god of lighting, you have the druid. Their power is the primal world around them. Druids are a blur between lorekeepers and actual keepers of the realm. druids preserve the natural realm, and with it, their magic is a call, not an order. Rangers also fall under this title of druids, even if they don't explicitly wield wands and staves.
+- Monks. the only surviving "martial", monks are not just people who meditate. many do, but monks are cultivators of Chi, a kind of primira magic that can enable the body, mind, and soul to a superhuman degree. and in many ways, a monk is superhuman - immune to fear, difficult to harm, blazingly fast, and capable of powers that rival magic without being magic: they can stop and channel ki, bend the four elements, dissolve into shadow, or astral project, and reach for your soul. the monk title folds in the rogue class.
+- Gnostics, or mediums. Beyond necromancers, these are mediators between the land of mortals and the realm of spirits. Spirits do not have a designated plane they go to, they linger across the planes, some as wandering souls, others as the supernatural that haunt. But they are also mediators for when that bridge is to pass, for people who cheat death, for undead who disobey it, and for possessions most unruly. this is a role most dire, a role rare and dangerous that not much is known about those who undertake it. 
+
+- On the medium / gnostics originally used the name gnostics for them when I wanted to turn them closer to lorekeepers, but this reaper identity fits much better. for that reaosn, the names are malleable - perhaps the psionic mystics are the true gnostics, holding access to the secrets of the mind and the lost library, and the black mage can recieve the title "mystic" to symbolise its elusive, shadowy nature. who knows?
+
+# 27/10 IMPORTANT NOTICE
+Clean obsidian vault created. Perhaps the projects will be split for now - Lore and story and worldbuilding will go towards that project, and blue divinity will be developed further as a TTRPG when that is settled.
+

@@ -2,81 +2,44 @@
 1. one is the head of the council, the strongest blue mage the academia has ever produced. his true age is unknown, as is his birth or death dates. He isn't that mysterious, but not obvius either, appearing as a profoundly ordinary human male, somewhere in his late 20s or 30s, without any signiature of physical or magical maturity.
 
 
-
 One has no special nickname, but if requested, he goes by his birth name, Linn. he is simply known by his magic. Linn founded the current version of the council, and has remained in no. 1 ever since. nobody really dares, or bothers to challenge his position.
-
 
 
 the reason for this high title is unknown. Arcane magic neither requires the him to have the strongest mind to parse its calculations nor the fittest body to store its mana. and yet, the blue mages hold the definitive upper hand in an era dominated by their general expertise - magic. he may be a prodigy, a sorcerer perhaps. or, a simulacrum of a long gone wizard. There's no clue to where his power comes from.
 
-
-
 2. Two, known by the nickname Lusalim, representing the white mages. She has never been seen walking, always hovering above the ground, orbited by strange spheres of light.
-
-
 
 You would think Linn to be the mathematican of the group, but it's actually Lusalim. Lusalim revolutionised Light-magic, turning an otherwise crude and abundant power source into both sculpture and weaponry, a transformation so extreme that no other light mage before her has dared. her fantatical research allows her to find the purest frequencies of what it means to *be* primordial light, without any ties to sorcerous or divine gifts of light magic.
 
-
-
 She is a half-elf, though her ironically cold demeanor seems more due to her obsessive work than her fey origin.
-
-
 
 3. three, known by the name Orier, is a cat, with no visible gender. Orier represents the green mages. Given concious thought and magical ability through the endless Qi that flows through the natural realm, their physical form has elevated them well past their short lived peers.
 
-
-
 Orier has lived for well over a millenia, their lifespan indefinitely extended through the life magic that circulates through them. he is a druid as much as he is an alchemist or apothecary. his personal greenhouses tower on the outer islands, where intriguing flora grow to be dissected into vital cures.
 
-
-
-4. Four, known by the name Ruet, represents the black mages. his exact species is unkown, as their form is permenantly shrouded with their mana signiature. Four lead the heavy research into dark mana and its magic, extracting valuable information from traditionally taboo sources.
-
+4. Four, known by the name Ruet, represents the black mages. his exact species is unkown, as their form is permenantly shrouded with their mana signiature. Four lead the heavy research into dark mana and its magic, extracting valuable information from traditionally taboo sources
 
 Ruet's exact origin and purpose is as unknown, if not more mysterious, than the others, but he is rarely the one to contribute to conversation. As one can imagine, there is the least amount of information avaliable on this particular character, that, which he prefers to be the case. his life is occupied by a series of wandering voyages with no end goal, from crossing the night sky to the abyssal planes, as a cartographer of where even the light fears to go.
 
-
-
 5. there is no 5.
-
-
 
 6. six, known by the name Siet, is the representative of the gold mages. originally a court diviner, the mysterious dissapearance of the noble she served and the even more mysterious sudden call of the council has brought her here - a clink of fate that is definitely, totally, not of her own making.
 
-
-
 She is responsible for the purest standard of divination, working seemingly without exhaustion to callibrate minds and instruments alike to the orientation of celestial objects and the endless call of fate. She is rarely seen moving, generally choosing to sit in the council chair, or in her own conservatory, for months on end.
-
-
 
 She has a third, vertical eye on her forehead, which enables her expansive divination. it has the appearance of something geometric floating within, though what purpose this eye serves - an extention of her mind, her enigmatic visions, or her magic, is unknown.
 
-
-
 7. seven, named Heid, is a violet mage, and represents for violet mages are still somewhat in line with the expectation of what it means to be a mage before crossing the (muddy) moral barrier to a warlock. he's a figure with unorthodox metholodiges and strange thoughts, but the only one brave enough to go this deep into occult study without succumbing to a pact (or their own mind).
-
-
 
 heid is a human, with purple scars that snake across his skin, remnants of spoken curses stored in flesh instead of his mind. He has a history of negotation with the most aberrant of beings, and a personal lab that nobody has ever visited.
 
-
-
 1. Eight, named Syth, is the council's honorary mystic. Thysth comes from the enigmatic city of thysqu (where he got his name), a mountanous, isolated library of mystic arts passed down through generations, and the ancient masters who can teach them. he has never attended physically, and in general, just doesn't like to attend, instead through some sort of projection or psionic instrument. it's unknown even if he has a physical form.
-
-
 
 his presence is felt through the mysterious obsidian obelisks that hover with the floating islands, which seem to be serving as some sort of storage device for recording the flux and flow of magic. baked into the crystal lattices is a primitive, simulated mind to handle the computation, with enough psionic power to levtiate the obelisk itself, or move it out of danger.
 
-
-
 9. nine, named Morne, is a representative for the red mages. he always appears aptly overdressed for any occasion he can find, commonly accompanied by a monocle for his near blind eye.
 
-
-
 Morne intimately feels the natural harmonics between the different forms of magic, and he can attune to them all. he's endlessly creative and artistic, having written an uncountable number of poems as well as composed manuscripts or scripted plays. Morne masters the principle of harmony, discovering what it is that makes bardic art inspire, strike fear, or soothe wounds to a degree that is certainly not just emotional, but a magic in between magics. until his passion for the arts leads him to establishing the sophist as a true mage color, the passionate red.
-
-
 
 10. is reserved for the blade saint, an angel of over 500 years old. The blade saint's true name cannot be spoken, as it is a divine command to do so. he is the other honourary guest to the circle
 
@@ -125,18 +88,6 @@ There are ruins of a bygone civilization. Ruins of great stone constructions and
 8\. **Latis city**: Adorned with marble towers and palaces above ground, a blatant facade over an underground of poverty and crime. Latis city isn't somewhere to stay for long. It's a city built for merchants, one for goods to dock and flow through trade networks, or take a gander across the famous Sescet district with its operas and elegant boulevards. Whilst money is the big talk above ground, information is the real currency being exchanged below tables.
 
 Amongst those in the know, it's grown infamous because of it. Yet the city never lost the allure of its intel; but rather, it acts as a guise, a tourist destination, that filters out who's here just for gossip, and who's got something worth exchanging. Currently, the City is mainly handled by House Atani, who established their own manor, though the other houses sliced up the pie as they wished.
-
-### **Latis city map**
-
-(doesn't render...)
-
-# 
-
-### **Latis city map**
-
-(doesn't render...)
-
-## 
 
 ### **Latis city landmarks**
 
@@ -469,11 +420,11 @@ The health and constitution of adventurers are constantly under threat from a my
 | pulse          | Concussive force. Pulse describes everything from sonic  waves to ripples in gravity. | thunderwave, explosion, magic flute|
 | **organic**      | **description** | |
 | Rose      | Lifeforce flux. Rose is the color of blood from failing organs or the drain from a vampire's bite. | inflict wounds, Dryad's curse, potion of healing |
-| Dream            | Psychic pain. Dream is pain the mind that it believes as real, and harms itself in that process. |dream eater, victim of scrying, mind shielding circlet  |
-| Toxic          | harmful substances. Toxic describes posions and infections that actively break down the body's functions. |poison spray, severe illness, vial of poison |
+| Dream    | Psychic pain. Dream is pain the mind that it believes as real, and harms itself in that process. |dream eater, victim of scrying, mind shielding circlet  |
+| Toxic    | harmful substances. Toxic describes posions and infections that actively break down the body's functions. |poison spray, severe illness, vial of poison |
 |  **pure magic**       |  **description** | |
 | Luminant | Concentrated light. Often a gift from the divine, Luminant melts away the impure. |Guiding bolt, Angel's presence, sacrifical knife |
-| Negative | Absorption. Negative damage drains energy from all, leaving only a shadow and its hollow husk. | Life drain, Aberration's hunger, demiplane key |
+| Negative | Absorption. Negative damage drains energy from all - life, energy, magic, leaving only a shadow and its hollow husk. | Life drain, Aberration's hunger, demiplane key |
 | prismatic | Raw arcane force. prismatic is the purest form of arcane energy, and contains all elemental and pure magic energies within. | magic missile, wild magic zone, wand of wonders |
 |  **others**       |  **description** | |
 | anomaly |  Damage that cannot be quantified within other reasonable bounds. temporal, soul,  and other metrics fall within here. |Temporal storm, Celestial winds, talisman of binding |
@@ -502,7 +453,4 @@ Pausing the development of game mechanics for a moment. The lore is rich enough 
 - Circle of mages
 - unique races (currently, only the starborn)
 - historic ages
-
-The above already has comprehensive work, we just need to package them onto the markdown document.
-
-Let's think about the different ages of the world at present. 
+- magic. the core foundation of the world at large, to be properly rectified.
