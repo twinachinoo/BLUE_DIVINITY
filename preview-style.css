@@ -1,0 +1,56 @@
+/* Custom typography layout for Windows users */
+body {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem;
+    line-height: 1.7
+
+}
+
+/* Headings use a crisp,  font for contrast */
+h1, h2, h3, h4 {
+     font-family: 'Palatino Linotype', 'Cambria', 'Georgia', serif;
+    letter-spacing: -0.01em;
+}
+
+/* Center H1 titles for a clean, modern chapter feel */
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0.8rem;
+    font-weight: 700;
+    /* Inherits your current VS Code theme's border color */
+    border-bottom: 2px solid var(--vscode-textSeparator-foreground, rgba(128, 128, 128, 0.25));
+}
+
+/* Give subheadings slightly more breathing room */
+h2, h3, h4 {
+    margin-top: 2rem;
+    font-weight: 600;
+}
+
+/* Modernize blockquotes for mechanics callouts or box text */
+blockquote {
+    margin: 1.5rem 0;
+    padding: 1rem 1.5rem;
+    border-left: 4px solid var(--vscode-textLink-activeForeground, #007acc);
+    background-color: var(--vscode-textBlockQuote-background, rgba(128, 128, 128, 0.1));
+    border-radius: 0 4px 4px 0;
+}
+
+/* Clean up table spacing for stat blocks and loot tables */
+table {
+    width: 100%;
+    margin: 2rem 0;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px 14px;
+}
+
+/* Add a very subtle hover effect to table rows to easily track data lines */
+tr:hover {
+    background-color: var(--vscode-list-hoverBackground, rgba(128, 128, 128, 0.05));
+}

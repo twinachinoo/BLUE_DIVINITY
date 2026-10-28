@@ -1,0 +1,17 @@
+{
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        },
+        "editor.lineNumbers": "off",
+        "editor.minimap.enabled": false
+    },
+    "markdown.preview.breaks": true,
+    "foam.edit.linkReferenceDefinitions": "withoutxtensions",
+    "markdown.styles": [
+        "./preview-style.css"
+    ]
+}

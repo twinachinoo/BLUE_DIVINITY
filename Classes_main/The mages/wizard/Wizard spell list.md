@@ -101,6 +101,7 @@
 - Acid bubble
 - chain lightning
 - pyrotechnics
+- ethereal incision
 
 #### Tier 7
 - mass animate objects
@@ -117,7 +118,7 @@
 - soulshock
 - mass fear
 - globe of invunerability
-- ethereal incision
+
 #### Tier 8
 - mass teleport
 - disintegrate
@@ -148,10 +149,10 @@
 - mass polymorph
 - reverse gravity
 - Negative flux 
+- antimagic field
 
 #### Tier 10
 - refraction field
-- antimagic field
 - illusory dragon
 - plasma flow
 - sunburst
@@ -159,7 +160,6 @@
 - Tomb of force
 - atomic acid
 - astral gate
-- Blade of disaster
 - Simulate singularity
 - demiplane
 

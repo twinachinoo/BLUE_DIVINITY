@@ -1,4 +1,4 @@
-# Mystic
+# apothecary
 
 # class features
 
